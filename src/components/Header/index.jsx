@@ -14,13 +14,6 @@ function Header(props) {
 			</div>
 		</div>
 			<div className="header-banner" style={{...props.headerStyle, backgroundRepeat: "no-repeat"}}>
-			<div className='header__promo__text'>
-				<h1 className='promo__h1__mobile'><span>COMPROU,</span><br/> GANHOU!</h1>
-				<h1 className='promo__h1__pc'><span>COMPROU,</span><br/> GANHOU!</h1>
-			<div>
-				<h2>50%</h2>
-				<p>off na segunda peça</p>
-			</div>
 			</div>
 					</div>
 		</div>
