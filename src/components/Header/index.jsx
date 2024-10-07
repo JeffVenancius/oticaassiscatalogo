@@ -4,7 +4,7 @@ import ScrollToBtn from '../Buttons/ScrollToBtn'
 
 function Header(props) {
   return (
-		<div className="header">
+	<div className="header">
 		<div className='header__nav'>
 			<img src="./assets/assis/Logotipo-Ótica-Assis-1.png" alt="Ótica Assis logo"></img>
 			<div className='header__nav--menu'>
@@ -13,10 +13,9 @@ function Header(props) {
 				<a href="https://api.whatsapp.com/send/?phone=553598652571&type=phone_number&app_absent=0"><button>Fale conosco</button></a>
 			</div>
 		</div>
-			<div className="header-banner" style={{...props.headerStyle, backgroundRepeat: "no-repeat"}}>
-			</div>
-					</div>
+		<div className="header-banner" style={{...props.headerStyle, backgroundRepeat: "no-repeat"}}>
 		</div>
+	</div>
   );
 }
 
