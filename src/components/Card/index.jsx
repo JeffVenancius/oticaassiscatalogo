@@ -26,7 +26,7 @@ function ImgCarousel(props) {
 			</Swiper>
 		)
 	} else {
-		return <img class="card__image__custom" src={"/assets/" + props.img} />
+		return <img class="card__image__custom" src={props.img} />
 	}
 }
 
