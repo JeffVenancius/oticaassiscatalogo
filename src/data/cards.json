@@ -1,18 +1,25 @@
 {
 	"Feminino//Óculos de Grau":[
 		{
-		"description": "Óculos de  Grau Armani Exchange AX3104 8158 Preto",
-		"modelo": "AX3104 8158",
-		"preco": 455,
-		"img": "https://i.ibb.co/Mk99vzf/image.jpg",
-		"discount": 25
-		},
-		{
 		"description": "Óculos de  Grau Ralph  RA7116 5848 Demi",
 		"modelo": "RA7116 5848",
 		"preco": 159,
 		"img": "https://i.ibb.co/yqSCLyb/image.jpg",
 		"discount": 70
+		},
+		{
+		"description": "Óculos de  Grau Armani Exchange AX3082U 8254 Rosa Translucido",
+		"modelo": "AX3082U 8254",
+		"preco": 255,
+		"img": "https://i.ibb.co/zRDfcRt/image.jpg",
+		"discount": 50
+		},
+		{
+		"description": "Óculos de  Grau Armani Exchange AX3104 8158 Preto",
+		"modelo": "AX3104 8158",
+		"preco": 455,
+		"img": "https://i.ibb.co/Mk99vzf/image.jpg",
+		"discount": 25
 		},
 		{
 		"description": "Óculos de  Grau Ray Ban RB7140 2000 Preto",
@@ -55,13 +62,6 @@
 		"preco": 474,
 		"img": "https://i.ibb.co/tQn8Dhc/image.jpg",
 		"discount": 20
-		},
-		{
-		"description": "Óculos de  Grau Armani Exchange AX3082U 8254 Rosa Translucido",
-		"modelo": "AX3082U 8254",
-		"preco": 255,
-		"img": "https://i.ibb.co/zRDfcRt/image.jpg",
-		"discount": 50
 		},
 		{
 		"description": "Óculos de  Grau Vogue VO5416-L 2980 Tortoise",
@@ -124,6 +124,34 @@
 	],
 	"Masculino//Óculos de Grau":[
 		{
+		"description": "Óculos de  Grau Platini P93156 H469 Cinza",
+		"modelo": "P93156 H469",
+		"preco": 116,
+		"img": "https://i.ibb.co/0fM7dH7/image.jpg",
+		"discount": 70
+		},
+		{
+		"description": "Óculos de  Grau Retangular T-Charge T1168A 04C Dourado",
+		"modelo": "T1168A 04C",
+		"preco": 345,
+		"img": "https://i.ibb.co/Dbbv0s1/image.jpg",
+		"discount": 50
+		},
+		{
+		"description": "Óculos de  Grau Emporio Armani EA3038 5063 Preto Fosco",
+		"modelo": "EA3038 5063",
+		"preco": 454,
+		"img": "https://i.ibb.co/y6PZC9D/image-1.jpg",
+		"discount": 50
+		},
+		{
+		"description": "Óculos de  Grau Armani Exchange AX3094 8237 Azul Translucido",
+		"modelo": "AX3094 8237",
+		"preco": 287,
+		"img": "https://i.ibb.co/x837X9v/image.jpg",
+		"discount": 50
+		},
+		{
 		"description": "Óculos de  Grau Nike 7253 205 Marrom",
 		"modelo": "7253 205",
 		"preco": 344,
@@ -152,34 +180,7 @@
 		"img": "https://i.ibb.co/fHQGfq3/image.jpg",
 		"discount": 20
 		},
-		{
-		"description": "Óculos de  Grau Retangular T-Charge T1168A 04C Dourado",
-		"modelo": "T1168A 04C",
-		"preco": 345,
-		"img": "https://i.ibb.co/Dbbv0s1/image.jpg",
-		"discount": 50
-		},
-		{
-		"description": "Óculos de  Grau Emporio Armani EA3038 5063 Preto Fosco",
-		"modelo": "EA3038 5063",
-		"preco": 454,
-		"img": "https://i.ibb.co/y6PZC9D/image-1.jpg",
-		"discount": 50
-		},
-		{
-		"description": "Óculos de  Grau Armani Exchange AX3094 8237 Azul Translucido",
-		"modelo": "AX3094 8237",
-		"preco": 287,
-		"img": "https://i.ibb.co/x837X9v/image.jpg",
-		"discount": 50
-		},
-		{
-		"description": "Óculos de  Grau Platini P93156 H469 Cinza",
-		"modelo": "P93156 H469",
-		"preco": 116,
-		"img": "https://i.ibb.co/0fM7dH7/image.jpg",
-		"discount": 70
-		}
+
 	],
 	"Masculino//Óculos de Sol":[
 		{
@@ -194,6 +195,13 @@
 		"modelo": "RB3625 9196/31",
 		"preco": 661,
 		"img": "https://i.ibb.co/86n96hN/image.jpg",
+		"discount": 25
+		},
+		{
+		"description": "Óculos de  Sol Ray Ban RB4384L 666887 Preto",
+		"modelo": "RB4384L 666887",
+		"preco": 524,
+		"img": "https://i.ibb.co/4svWP7N/image.jpg",
 		"discount": 25
 		},
 		{
@@ -237,13 +245,6 @@
 		"preco": 821,
 		"img": "https://i.ibb.co/k4nv3V0/image.jpg",
 		"discount": 20
-		},
-		{
-		"description": "Óculos de  Sol Ray Ban RB4384L 666887 Preto",
-		"modelo": "RB4384L 666887",
-		"preco": 524,
-		"img": "https://i.ibb.co/4svWP7N/image.jpg",
-		"discount": 25
 		},
 		{
 		"description": "Óculos de  Sol Oakley Oo4142-15 Cinza",
