@@ -1,4 +1,4 @@
-import './wppButton.css'
+import './wppBtn.css'
 
 function WppBtn(props) {
 	const wppIcon = <img src="./assets/assis/icone4.svg" style={{height:"70%", marginRight: "2%"}}/>
