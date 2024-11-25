@@ -69,114 +69,170 @@
 	],
 	"Feminino//Óculos de Sol":[
 		{
-			"description": "Óculos de Sol Calvin Klein Jeans CKJ23656S Vermelho",
-			"modelo": "CKJ23656S",
-			"preco": 951,
-			"img": "LPG-6.jpg"
+		description: "Óculos de  Sol Armani Exchange AX4107S 8158/11 Preto",
+		modelo: "AX4107S 8158/11",
+		preco: 269,
+		img: "https://i.ibb.co/xzYQ8HL/image.jpg"
 		},
 		{
-			"description": "Óculos de Sol Ana Hickmann AH9294N Bege",
-			"modelo": "AH9294N",
-			"preco": 722,
-			"img": "LPG-12.jpg"
+		description: "Óculos de  Sol Ray Ban Mega Wayfarer RB0840-S 901/58 Preto",
+		modelo: "RB0840-S 901/58",
+		preco: 926,
+		img: "https://i.ibb.co/jbpNvY4/image.jpg"
 		},
 		{
-			"description": "Óculos de Sol Guess GU7875 Dourado",
-			"modelo": "GU7875",
-			"preco": 1109,
-			"img": "LPG-11.jpg"
-		},{
-		"description": "Óculos de Sol Michael Kors MK1046 Dourado",
-		"modelo": "MK1046",
-		"preco": 1060,
-		"img": "LPG-17.jpg"
+		description: "Óculos de  Sol Vogue VO5612-SB 31788G Tortoise Roxo",
+		modelo: "VO5612-SB 31788G",
+		preco: 638,
+		img: "https://i.ibb.co/7248R61/image.jpg"
 		},
 		{
-			"description": "Óculos de Sol Michael Kors MK2140 Tortoise",
-			"modelo": "MK2140",
-			"preco": 1060,
-			"img": "LPG-21.jpg"
+		description: "Óculos de  Sol Vogue VO5543-SL W44/87 Preto",
+		modelo: "VO5543-SL W44/87",
+		preco: 626,
+		img: "https://i.ibb.co/QrxpTm0/image.jpg"
 		},
 		{
-			"description": "Óculos de Sol Vogue VO5428-Sl Azul",
-			"modelo": "VO5428-Sl",
-			"preco": 590,
-			"img": "LPG-19.jpg"
-		}
+		description: "Óculos de  Sol Vogue VO5462-S W65613 Tortoise",
+		modelo: "VO5462-S W65613",
+		preco: 537,
+		img: "https://i.ibb.co/7RTG1ZV/image.jpg"
+		},
+		{
+		description: "Óculos de Sol Vogue VO5612-SB 31788G Tortoise Roxo",
+		modelo: "VO5612-SB 31788G",
+		preco: 638,
+		img: "https://i.ibb.co/7248R61/image.jpg"
+		},
+		{
+		description: "Óculos de Sol Vogue VO5543-SL W44/87 Preto",
+		modelo: "VO5543-SL W44/87",
+		preco: 626,
+		img: "https://i.ibb.co/QrxpTm0/image.jpg"
+		},
+		{
+		description: "Óculos de Sol Vogue VO5462-S W65613 Tortoise",
+		modelo: "VO5462-S W65613",
+		preco: 537,
+		img: "https://i.ibb.co/7RTG1ZV/image.jpg"
+		},
 	],
 	"Masculino//Óculos de Grau":[
 		{
-			"description": "Óculos de Grau Emporio Armani EA3201U Verde",
-			"modelo": "EA3201U",
-			"preco": 990,
-			"img": "LPG-4.jpg"
+		description: "Óculos de  Grau Nike 7253 205 Marrom",
+		modelo: "7253 205",
+		preco: 344,
+		img: "https://i.ibb.co/gvqbskw/image.jpg"
 		},
 		{
-			"description": "Óculos de Grau Ray Ban RB3947VL Prata",
-			"modelo": "RB3947V",
-			"preco": 740,
-			"img": "LPG-1.jpg"
+		description: "Óculos de  Grau Retangular T-Charge T6083 G21 Demi",
+		modelo: "T6083 G21",
+		preco: 345,
+		img: "https://i.ibb.co/NFhCy6N/image.jpg"
 		},
 		{
-			"description": "Óculos de Grau Oakley OX8149 Cinza",
-			"modelo": "OX8149",
-			"preco": 1111,
-			"img": "LPG-5.jpg"
+		description: "Óculos de  Grau Jean Monnier J83242 L886 Preto",
+		modelo: "J83242 L886",
+		preco: 280,
+		img: "https://i.ibb.co/gZx6yk0/image.jpg"
 		},
 		{
-			"description": "Óculos de Grau Oakley OX1100-04 Preto",
-			"modelo": "OX1100-04",
-			"preco": 530,
-			"img": "LPG-25.jpg"
+		description: "Óculos de  Grau Armani Exchange AX3055L 8273 Azul Marinho",
+		modelo: "AX3055L 8273",
+		preco: 508,
+		img: "https://i.ibb.co/y8XH4WY/image.jpg"
 		},
 		{
-			"description": "Óculos de Grau Emporio Armani EA1107 Preto",
-			"modelo": "EA1107",
-			"preco": 670,
-			"img": "LPG-14.jpg"
+		description: "Óculos de  Grau Retangular T-Charge T6083 G21 Demi",
+		modelo: "T6083 G21",
+		preco: 345,
+		img: "https://i.ibb.co/NFhCy6N/image.jpg"
 		},
 		{
-			"description": "Óculos de Grau Emporio Armani EA3170 Vermelho",
-			"modelo": "EA3170",
-			"preco": 770,
-			"img": "LPG-15.jpg"
+		description: "Óculos de  Grau Retangular T-Charge T1168A 04C Dourado",
+		modelo: "T1168A 04C",
+		preco: 345,
+		img: "https://i.ibb.co/Dbbv0s1/image.jpg"
 		},
 		{
-			"description": "Óculos de Grau Arnett AN4299 Preto",
-			"modelo": "AN4299",
-			"preco": 550,
-			"img": "LPG-24.jpg"
+		description: "Óculos de  Grau Emporio Armani EA3038 5063 Preto Fosco",
+		modelo: "EA3038 5063",
+		preco: 454,
+		img: "https://i.ibb.co/k3sT8rd/image.jpg"
+		},
+		{
+		description: "Óculos de  Grau Armani Exchange AX3094 8237 Azul Translucido",
+		modelo: "AX3094 8237",
+		preco: 287,
+		img: "https://i.ibb.co/x837X9v/image.jpg"
+		},
+		{
+		description: "Óculos de  Grau Platini P93156 H469 Cinza",
+		modelo: "P93156 H469",
+		preco: 116,
+		img: "https://i.ibb.co/QCxZFzq/image.jpg"
 		}
 	],
 	"Masculino//Óculos de Sol":[
 		{
-			"description": "Óculos de Sol Ferrari FZ6005U Preto",
-			"modelo": "FZ6005U",
-			"preco": 1146,
-			"img": "LPG-3.jpg"
-		},
-		{"description": "Óculos de Sol Ray Ban RB3701 Prata",
-			"modelo": "RB3701",
-			"preco": 1330,
-			"img": "LPG-7.jpg"
+		description: "Óculos de  Sol Polaroid PLD6049/S/X 3YGC3 Prata",
+		modelo: "PLD6049/S/X 3YGC3",
+		preco: 75,
+		img: "https://i.ibb.co/zHmZ4N3/image.jpg"
 		},
 		{
-			"description": "Óculos de Sol Calvin Klein Jeans CKJ24601S Marrom",
-			"modelo": "CKJ24601S",
-			"preco": 663,
-			"img": "LPG-2.jpg"
+		description: "Óculos de  Sol Ray Ban RB3625 9196/31  Dourado",
+		modelo: "RB3625 9196/31",
+		preco: 661,
+		img: "https://i.ibb.co/86n96hN/image.jpg"
 		},
 		{
-			"description": "Óculos de Sol Ray Ban RB3708 Prata",
-			"modelo": "RB3708",
-			"preco": 1180,
-			"img": "LPG-22.jpg"
+		description: "Óculos de  Sol Ray Ban RB3026L L2821 Preto",
+		modelo: "RB3026L L2821",
+		preco: 747,
+		img: "https://i.ibb.co/hsRw0J5/image.jpg"
 		},
 		{
-			"description": "Óculos de Sol Arnette Shyguy 4283 Azul",
-			"modelo": "Shyguy 4283",
-			"preco": 570,
-			"img": "LPG-23.jpg"
-		}
+		description: "Óculos de  Sol Oakley Oo9188-J3 Grafite",
+		modelo: "OO9188 -J3",
+		preco: 856,
+		img: "https://i.ibb.co/0VW0Z4p/image.jpg"
+		},
+		{
+		description: "Óculos de  Sol Oakley Oo9102 O3 Preto",
+		modelo: "OO9102- O3",
+		preco: 508,
+		img: "https://i.ibb.co/TYtcpLV/image.jpg"
+		},
+		{
+		description: "Óculos de  Sol  Tecnol TN4029 H870 Preto Fosco",
+		modelo: "TN4029 H870",
+		preco: 238,
+		img: "https://i.ibb.co/5MzhjQT/image.jpg"
+		},
+		{
+		description: "Óculos de  Sol Oakley Oo9479L-09 Preto",
+		modelo: "OO9479L -09",
+		preco: 856,
+		img: "https://i.ibb.co/RYFtR6T/image.jpg"
+		},
+		{
+		description: "Óculos de  Sol Emporio Armani EA4029 5042/71 Preto",
+		modelo: "EA4029 5042/71",
+		preco: 821,
+		img: "https://i.ibb.co/k4nv3V0/image.jpg"
+		},
+		{
+		description: "Óculos de  Sol Ray Ban RB4384L 666887 Preto",
+		modelo: "RB4384L 666887",
+		preco: 524,
+		img: "https://i.ibb.co/4svWP7N/image.jpg"
+		},
+		{
+		description: "Óculos de  Sol Oakley Oo4142-15 Cinza",
+		modelo: "OO4142 -15",
+		preco: 894,
+		img: "https://i.ibb.co/rf820T0/image.jpg"
+		},
 	]
 }
