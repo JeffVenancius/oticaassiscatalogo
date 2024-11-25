@@ -1,4 +1,8 @@
-@media (max-width: 620px)
-.wppButton {
-  font-size: calc(6px + 2vw)
+@media (max-width: 620px){
+  .wppButton {
+    font-size: calc(6px + 2vw)
+  }
+  .wppButton img {
+    display: none;
+  }
 }
