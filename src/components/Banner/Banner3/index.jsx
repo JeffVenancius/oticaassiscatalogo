@@ -24,7 +24,6 @@ function Banner3() {
   return (
 		<Banner className="banner__3"
 							>
-							{text}
 							</Banner>
   );
 }
