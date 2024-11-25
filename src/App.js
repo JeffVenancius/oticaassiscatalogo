@@ -142,7 +142,7 @@ function App() {
 			cardsData[i.titulo] = cardsData[i.titulo].sort((a, b) => a.modelo >= b.modelo)
 		})
 		tempCategoriesData.forEach(i => {
-			cardsData[i.titulo] = cardsData[i.titulo].sort((a, b) => a.preco >= b.preco)
+			cardsData[i.titulo] = cardsData[i.titulo].sort((a, b) => a.discount <= b.discount)
 			cardsData[i.titulo] = cardsData[i.titulo].map(e => {
 				idCounter += 1
 				return {...e, id: idCounter}
