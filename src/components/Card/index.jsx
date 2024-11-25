@@ -27,7 +27,7 @@ function ImgCarousel(props) {
 			</Swiper>
 		)
 	} else {
-		return <></><p className="discount">%</p><img class="card__image__custom" src={props.img} /></>
+		return <><p className="discount">%</p><img class="card__image__custom" src={props.img} /></>
 	}
 }
 
