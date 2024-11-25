@@ -44,7 +44,7 @@ function Card(props) {
 
   return (
 		<div className="card__custom" style={{...props.propsStyle, display:"flex", justifyContent:"space-between", alignItems:"center"}}>
-			<ImgCarousel img={props.img} frameColor={props.frameColor} delay={props.delay} />
+			<ImgCarousel img={props.img} frameColor={props.frameColor} delay={props.delay} discount={props.discount}/>
 			<div className="card--description">
 				<h2 >{props.description}</h2>
 		<div className="card__description_price_container">
