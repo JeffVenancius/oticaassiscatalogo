@@ -10,7 +10,7 @@ import { Navigation } from "swiper/modules";
 import React, { useLayoutEffect, useState } from "react";
 
 function Version(props) {
-  sortedCards = props.cards.sort( (a,b) => a.discount > b.discount)
+  const sortedCards = props.cards.sort( (a,b) => a.discount > b.discount)
   const [size, setSize] = useState([0, 0]);
   useLayoutEffect(() => {
     function updateSize() {
