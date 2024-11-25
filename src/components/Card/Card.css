@@ -121,17 +121,17 @@
 	}
 }
 
-.strikediag {
-  display: inline-block;
-  position: relative;
-}
-.strikediag::before {
-  content: '';
-  position: absolute;
-  left: -0.1em;
-  right: -0.1em;
-  top: 0.38em;
-  bottom: 0.38em;
-  background: linear-gradient(to left top, transparent 45.5%, currentColor 47.5%, currentColor 52.5%, transparent 54.5%);
-  pointer-events: none;
+
+.discount {
+	position: absolute;
+	right: 0;
+	width: 92px;
+	height: 26px;
+	background-color: #000;
+	z-index: 999;
+	text-align: right;
+	border-top: 6px solid #000;
+	border-right: 8px solid #000;
+	color: #fdc401;
+	font-size: 20px;
 }
