@@ -48,6 +48,7 @@ function Version(props) {
               modelo={e.modelo}
               preco={e.preco}
               img={e.img}
+	      discount ={e.discount}
               btnStyle={props.btnStyle}
               btnMensagemPrefixo={props.btnMensagemPrefixo}
 							id={e.id}
@@ -81,8 +82,9 @@ function Version(props) {
             description={e.description}
             modelo={e.modelo}
             preco={e.preco}
-						id={e.id}
-						img={e.img}
+	    id={e.id}
+	    img={e.img}
+            discount={e.discount}
             btnStyle={props.btnStyle}
             btnMensagemPrefixo={props.btnMensagemPrefixo}
 						key={e.description + e.modelo}
