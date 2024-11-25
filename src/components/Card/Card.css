@@ -121,3 +121,17 @@
 	}
 }
 
+.strikediag {
+  display: inline-block;
+  position: relative;
+}
+.strikediag::before {
+  content: '';
+  position: absolute;
+  left: -0.1em;
+  right: -0.1em;
+  top: 0.38em;
+  bottom: 0.38em;
+  background: linear-gradient(to left top, transparent 45.5%, currentColor 47.5%, currentColor 52.5%, transparent 54.5%);
+  pointer-events: none;
+}
