@@ -10,6 +10,7 @@ import { Navigation } from "swiper/modules";
 import React, { useLayoutEffect, useState } from "react";
 
 function Version(props) {
+  sortedCards = props.cards.sort( (a,b) => a.discount > b.discount)
   const [size, setSize] = useState([0, 0]);
   useLayoutEffect(() => {
     function updateSize() {
@@ -31,7 +32,7 @@ function Version(props) {
 				style={{height:"100%"
 }}
       >
-        {props.cards.map((e) => (
+        {sortedCards.map((e) => (
           <SwiperSlide
             style={{
               display: "flex",
@@ -74,7 +75,7 @@ function Version(props) {
 					...props.gridStyle
         }}
       >
-        {props.cards.map((e) => (
+        {sortedCards.map((e) => (
           <Card
             propsStyle={{ ...props.cardStyle }}
             logo={e.logo}
