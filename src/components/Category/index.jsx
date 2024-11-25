@@ -107,7 +107,7 @@ function Category(props) {
     >
       <h1 className="category--title" >{props.titulo.toUpperCase().split("//")[1]}</h1>
 			<h2 className="category--subtitle" >{props.titulo.toLowerCase().split("//")[0]}</h2>
-      <Version {...props, cards={props.cards.sort((a,b) => a.discount > b.discount</Version>)
+      <Version {...props)
 	    </Version>} />
       {props.banner}
     </div>
