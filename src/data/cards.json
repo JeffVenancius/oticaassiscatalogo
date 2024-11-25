@@ -11,15 +11,15 @@
 		"description": "Óculos de  Grau Ralph  RA7116 5848 Demi",
 		"modelo": "RA7116 5848",
 		"preco": 159,
-		"img": "https://i.ibb.co/yqSCLyb/image.jpg"
-		"discount": 0,
+		"img": "https://i.ibb.co/yqSCLyb/image.jpg",
+		"discount": 0
 		},
 		{
 		"description": "Óculos de  Grau Ray Ban RB7140 2000 Preto",
 		"modelo": "RB7140 2000",
 		"preco": 612,
 		"img": "https://i.ibb.co/ws8W842/image.jpg",
-		"discount": 0,
+		"discount": 0
 		},
 		{
 		"description": "Óculos de  Grau Guess GU50112 057 Nude",
