@@ -19,15 +19,16 @@ function ImgCarousel(props) {
 				{props.img.map(i => {
 					return (
 						<SwiperSlide key={"slideImgCard--" + props.img}>
-							<p className="discount">%</p>
+							<div><p className="discount">%</p>
 							<img class="card__image__custom" key={"imgCollection--" + props.img} src={i} />
+							</div>
 						</SwiperSlide>
 					)
 				})}
 			</Swiper>
 		)
 	} else {
-		return <><p className="discount">%</p><img class="card__image__custom" src={props.img} /></>
+		return <div><p className="discount">%</p><img class="card__image__custom" src={props.img} /></div>
 	}
 }
 
