@@ -84,7 +84,6 @@ function App() {
 			// width: "280px",
 			// height: "64px",
 			borderRadius: "8px",
-			fontSize: size[0] < size[1] ? Math.min(size[0] / 16, 20) + "px" : size[0] < minWidth ? size[0] / 60 + "px" : "16px",
 		}
 	}
 
