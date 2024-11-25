@@ -20,7 +20,7 @@ function Version(props) {
     return () => window.removeEventListener("resize", updateSize);
   }, []);
 
-  if (size[0] < 20) {
+  if (size[0] < 620) {
     return (
       <Swiper
         slidesPerView={1}
