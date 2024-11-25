@@ -125,14 +125,14 @@
 .discount {
 	position: absolute;
 	right: 0;
-	width: 74px;
-	height: 26px;
+	width: 82px;
+	height: 34px;
 	background-color: #b51e36;
 	z-index: 999;
 	text-align: right;
-	border-top: 8px solid #b51e36;
+	border-top: 9px solid #b51e36;
 	border-right: 8px solid #b51e36;
 	color: #fff;
-	font-size: 32px;
+	font-size: 24px;
 	font-weight: 600;
 }
