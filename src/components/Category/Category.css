@@ -10,6 +10,20 @@
 	margin: 0;
 }
 
+.category--grid {
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+	margin: auto;
+	gap: 64px 5vw;
+}
+
+@media only screen and (max-width: 860px) {
+	.category--grid {
+		grid-template-columns: 1fr 1fr;
+		margin: auto 2%;
+	}
+}
+
 .category--subtitle {
 	margin: 0;
 	margin-bottom: 64px;

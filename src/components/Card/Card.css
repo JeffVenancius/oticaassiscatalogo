@@ -66,18 +66,18 @@
 }
 
 .card--description h2 {
-	font-size: 13px;
+	font-size: 16px;
 	width: 100%;
 	margin: 0;
 }
 .card--description h3 {
-	font-size: 12px;
+	font-size: 14px;
 	margin: 0;
 	font-weight: 600;
 }
 
 .card--description p {
-	font-size: 12px;
+	font-size: 14px;
 	margin: auto;
 }
 /* .card--description button { */
@@ -110,14 +110,32 @@
 
 @media only screen and (max-width:619px) {
 .card__custom {
-	width: 70%;
 	aspect-ratio: 1/1;
 	margin-bottom: 32px;
-}}
+}
+.card__description_price_container {
+		/*line-height: 2px;*/
+	}
+}
 
 @media only screen and (max-width: 859px) {
 	.card--description {
 		background-color: white;
+		margin-top: unset;
+	}
+}
+
+
+@media only screen and (max-width: 620px) {
+	.card--description p {
+		font-size: 2.5vw;
+	}
+	.card--description h3 {
+		font-size: 2.5vw;
+		margin-bottom: 0.5vw;
+	}
+	.card--description h2 {
+		font-size: 2.5vw;
 	}
 }
 
@@ -135,4 +153,31 @@
 	color: #fff;
 	font-size: 24px;
 	font-weight: 600;
+}
+
+@media only screen and (max-width: 480px) {
+	.card--description p {
+		font-size: 3vw;
+	}
+	.card--description h3 {
+		font-size: 3vw;
+		margin-bottom: 0.5vw;
+	}
+	.card--description h2 {
+		font-size: 3vw;
+	}
+	.discount {
+		width: 30%;
+		height: unset;
+		aspect-ratio: 3/1;
+		font-size: 4vw;
+		border-right: 1vw solid #b51e36;
+		border-top: 1vw solid #b51e36;
+	}
+}
+
+
+.card__description-model {
+	/*font-weight: 600;*/
+	font-size: 32px;
 }

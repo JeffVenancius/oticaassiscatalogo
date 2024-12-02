@@ -1,6 +1,25 @@
+  .wppButton {
+    aspect-ratio: 6/1.2;
+    border-radius: 8px;
+    margin: 0;
+    }
 @media (max-width: 620px) {
   .wppButton {
-    font-size: calc(6px + 4vw)
+    font-size: calc(6px + 3vw);
+    aspect-ratio: 5/1;
+    border-radius: 3vw;
+  }
+  .wppButton img {
+    display: none;
+  }
+}
+
+
+@media (max-width: 420px) {
+  .wppButton {
+    /*font-size: calc(6px + 2vw);*/
+    aspect-ratio: 4/1;
+    border-radius: 3vw;
   }
   .wppButton img {
     display: none;

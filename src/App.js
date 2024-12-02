@@ -83,7 +83,7 @@ function App() {
 			marginTop: "16px",
 			// width: "280px",
 			// height: "64px",
-			borderRadius: "8px",
+			//borderRadius: "8px",
 		}
 	}
 
@@ -135,18 +135,8 @@ function App() {
 	useEffect(() => {
 		let tempCategoriesData = categoriesData
 		let idCounter = 0
-
-
 		tempCategoriesData.forEach(i => {
-			cardsData[i.titulo] = cardsData[i.titulo].sort((a, b) => a.modelo >= b.modelo)
-		})
-		tempCategoriesData.forEach(i => {
-			cardsData[i.titulo] = cardsData[i.titulo].sort((a, b) => a.discount <= b.discount)
-			cardsData[i.titulo] = cardsData[i.titulo].map(e => {
-				idCounter += 1
-				return {...e, id: idCounter}
-			})
-			i.cards = cardsData[i.titulo]
+			i.cards = cardsData[i.titulo].sort((a, b) => a.discount <= b.discount && a.price >= b.price)
 		})
 		setCategoriesData(tempCategoriesData)
 }, [])
@@ -169,7 +159,6 @@ function App() {
 		{categoriesData.map((e) => (
 			<Category
 				categoryStyle={ size[0] < minWidth ? {marginRight:"2%", marginLeft:"2%"} : {marginLeft:"auto", marginRight:"auto"}}
-				gridStyle={{gridTemplateColumns: size[0] < 860 ? "1fr 1fr" : "1fr 1fr 1fr"}}
 				bg={e.bgCategoria}
 				iconeSize={size[0] < size[1] ? Math.min(size[0] / 16, 32) + "px" : size[0] < minWidth ? size[0] / 45 + "px" : "32px"}
 				btnStyle={{...estilosBotao.produtoBtn, backgroundColor: e.btnBg, color: e.btnFg, WebkitTextFillColor: e.btnFg}}

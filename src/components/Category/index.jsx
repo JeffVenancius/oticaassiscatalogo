@@ -20,59 +20,50 @@ function Version(props) {
     return () => window.removeEventListener("resize", updateSize);
   }, []);
 
-  if (size[0] < 620) {
-    return (
-      <Swiper
-        slidesPerView={1}
-				spaceBetween={10}
-        loop={true}
-        navigation={true}
-        modules={[Navigation]}
-				style={{height:"100%"
-}}
-      >
-        {props.cards.map((e) => (
-          <SwiperSlide
-            style={{
-              display: "flex",
-              justifyContent: "center",
-              alignItems: "center",
-            }}
-						className="card--slide"
-							key={e.description + e.modelo + "--slider"}
-          >
-            <Card
-							propsStyle={{...props.cardStyle}}
-              frameColor={props.frameColor}
-              description={e.description}
-              modelo={e.modelo}
-              preco={e.preco}
-              img={e.img}
-	      discount ={e.discount}
-              btnStyle={props.btnStyle}
-              btnMensagemPrefixo={props.btnMensagemPrefixo}
-							id={e.id}
-							key={e.description + e.modelo}
-							iconeSize={props.iconeSize}
-							delay={props.delay}
-            />
-          </SwiperSlide>
-        ))}
-      </Swiper>
-    );
-  }
+//  if (size[0] < 620) {
+//    return (
+//      <Swiper
+//        slidesPerView={1}
+//				spaceBetween={10}
+//        loop={true}
+//        navigation={true}
+//        modules={[Navigation]}
+//				style={{height:"100%"
+//}}
+//      >
+//        {props.cards.map((e) => (
+//          <SwiperSlide
+//            style={{
+//              display: "flex",
+//              justifyContent: "center",
+//              alignItems: "center",
+//            }}
+//						className="card--slide"
+//							key={e.description + e.modelo + "--slider"}
+//          >
+//            <Card
+//							propsStyle={{...props.cardStyle}}
+//              frameColor={props.frameColor}
+//              description={e.description}
+//              modelo={e.modelo}
+//              preco={e.preco}
+//              img={e.img}
+//	      discount ={e.discount}
+//              btnStyle={props.btnStyle}
+//              btnMensagemPrefixo={props.btnMensagemPrefixo}
+//							id={e.id}
+//							key={e.description + e.modelo}
+//							iconeSize={props.iconeSize}
+//							delay={props.delay}
+//            />
+//          </SwiperSlide>
+//        ))}
+//      </Swiper>
+//    );
+//  }
   return (
     <div style={{ display: "flex", marginBottom: "64px"}}>
-      <div
-        style={{
-          display: "grid",
-          gridTemplateColumns: "1fr 1fr 1fr",
-          margin: "auto",
-					...props.categoryStyle,
-					columnGap: "5vw",
-						rowGap: "64px",
-					...props.gridStyle
-        }}
+      <div className="category--grid"
       >
         {props.cards.map((e) => (
           <Card
