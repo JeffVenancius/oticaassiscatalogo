@@ -98,7 +98,28 @@ function Category(props) {
     >
       <h1 className="category--title" >{props.titulo.toUpperCase().split("//")[1]}</h1>
 			<h2 className="category--subtitle" >{props.titulo.toLowerCase().split("//")[0]}</h2>
-      <Version {...props}/>
+      <div className="category--grid"
+      >
+        {props.cards.map((e) => (
+          <Card
+            propsStyle={{ ...props.cardStyle }}
+            logo={e.logo}
+            frameColor={props.frameColor}
+            description={e.description}
+            modelo={e.modelo}
+            preco={e.preco}
+	    id={e.id}
+	    img={e.img}
+            discount={e.discount}
+            btnStyle={props.btnStyle}
+            btnMensagemPrefixo={props.btnMensagemPrefixo}
+						key={e.description + e.modelo}
+						iconeSize={props.iconeSize}
+						delay={props.delay}
+          />
+        ))}
+		{props.cards.length % 2 ? <div className="card__custom"></div> : ""}
+      </div>
       {props.banner}
     </div>
   );

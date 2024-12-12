@@ -8,6 +8,7 @@
 	flex-shrink: 0;
 	/* justify-content: space-between; */
 		aspect-ratio: 247/296;
+		flex-basis: 33.3%;
 }
 
 .card__image__custom {
@@ -112,6 +113,7 @@
 .card__custom {
 	aspect-ratio: 1/1;
 	margin-bottom: 32px;
+	flex-basis: 50%;
 }
 .card__description_price_container {
 		/*line-height: 2px;*/
