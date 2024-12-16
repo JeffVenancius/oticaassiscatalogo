@@ -18,6 +18,10 @@
 	max-width: 350px;
 }
 
+.strikediag {
+  text-decoration: line-through;
+}
+
 
 .card--image {
 	position: absolute;
