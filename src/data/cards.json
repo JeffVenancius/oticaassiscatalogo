@@ -1,249 +1,378 @@
 {
-	"Feminino//Óculos de Grau":[
-		{
-		"description": "Ralph",
-		"modelo": "RA7116 5848",
-		"preco": 159,
-		"img": "https://i.ibb.co/yqSCLyb/image.jpg",
-		"discount": 70
-		},
-		{
-		"description": "Armani Exchange",
-		"modelo": "AX3082U 8254",
-		"preco": 255,
-		"img": "https://i.ibb.co/zRDfcRt/image.jpg",
-		"discount": 50
-		},
-		{
-		"description": "Armani Exchange",
-		"modelo": "AX3104 8158",
-		"preco": 455,
-		"img": "https://i.ibb.co/Mk99vzf/image.jpg",
-		"discount": 25
-		},
-		{
-		"description": "Ray-Ban",
-		"modelo": "RB7140 2000",
-		"preco": 612,
-		"img": "https://i.ibb.co/ws8W842/image.jpg",
-		"discount": 25
-		},
-		{
-		"description": "Guess",
-		"modelo": "GU50112 057",
-		"preco": 578,
-		"img": "https://i.ibb.co/rMbmf5H/image.jpg",
-		"discount": 20
-		},
-		{
-		"description": "Kipling",
-		"modelo": "KP3151 J245",
-		"preco": 361,
-		"img": "https://i.ibb.co/BG9K336/image.jpg",
-		"discount": 20
-		},
-		{
-		"description": "Vogue",
-		"modelo": "VO5450-L 3014",
-		"preco": 464,
-		"img": "https://i.ibb.co/fSq8c73/image.jpg",
-		"discount": 20
-		},
-		{
-		"description": "Kipling",
-		"modelo": "KP3154 K147",
-		"preco": 396,
-		"img": "https://i.ibb.co/ss60XrR/image.jpg",
-		"discount": 20
-		},
-		{
-		"description": "Vogue",
-		"modelo": "VO5416-L 2939",
-		"preco": 474,
-		"img": "https://i.ibb.co/tQn8Dhc/image.jpg",
-		"discount": 20
-		},
-		{
-		"description": "Vogue",
-		"modelo": "VO5416-L 2980",
-		"preco": 520,
-		"img": "https://i.ibb.co/KxKXWrW/image.jpg",
-		"discount": 20
-		},
-		{
-		"description": "Jean Monnier",
-		"modelo": "J82015V K101",
-		"preco": 319,
-		"img": "https://i.ibb.co/7VsHh7y/image.jpg",
-		"discount": 20
-		}
-	],
-	"Feminino//Óculos de Sol":[
-		{
-		"description": "Armani Exchange",
-		"modelo": "AX4107S 8158/11",
-		"preco": 269,
-		"img": "https://i.ibb.co/YZj45CV/image.jpg",
-		"discount": 50
-		},
-		{
-		"description": "Ray-Ban",
-		"modelo": "RB0840-S 901/58",
-		"preco": 926,
-		"img": "https://i.ibb.co/jbpNvY4/image.jpg",
-		"discount": 25
-		},
-		{
-		"description": "Vogue",
-		"modelo": "VO5612-SB 31788G",
-		"preco": 638,
-		"img": "https://i.ibb.co/R7r3sMm/image.jpg",
-		"discount": 20
-		},
-		{
-		"description": "Vogue",
-		"modelo": "VO5543-SL W44/87",
-		"preco": 626,
-		"img": "https://i.ibb.co/QrxpTm0/image.jpg",
-		"discount": 20
-		},
-		{
-		"description": "Vogue",
-		"modelo": "VO5462-S W65613",
-		"preco": 537,
-		"img": "https://i.ibb.co/7RTG1ZV/image.jpg",
-		"discount": 20
-		}
-	],
-	"Masculino//Óculos de Grau":[
-		{
-		"description": "Platini",
-		"modelo": "P93156 H469",
-		"preco": 116,
-		"img": "https://i.ibb.co/0fM7dH7/image.jpg",
-		"discount": 70
-		},
-		{
-		"description": "T-Charge",
-		"modelo": "T1168A 04C",
-		"preco": 345,
-		"img": "https://i.ibb.co/Dbbv0s1/image.jpg",
-		"discount": 50
-		},
-		{
-		"description": "Emporio Armani",
-		"modelo": "EA3038 5063",
-		"preco": 454,
-		"img": "https://i.ibb.co/y6PZC9D/image-1.jpg",
-		"discount": 50
-		},
-		{
-		"description": "Armani Exchange",
-		"modelo": "AX3094 8237",
-		"preco": 287,
-		"img": "https://i.ibb.co/x837X9v/image.jpg",
-		"discount": 50
-		},
-		{
-		"description": "Nike",
-		"modelo": "7253 205",
-		"preco": 344,
-		"img": "https://i.ibb.co/gvqbskw/image.jpg",
-		"discount": 50
-			
-		},
-		{
-		"description": "T-Charge",
-		"modelo": "T6083 G21",
-		"preco": 345,
-		"img": "https://i.ibb.co/NFhCy6N/image.jpg",
-		"discount": 50
-		},
-		{
-		"description": "Jean Monnier",
-		"modelo": "J83242 L886",
-		"preco": 280,
-		"img": "https://i.ibb.co/y6PZC9D/image-1.jpg",
-		"discount": 20
-		},
-		{
-		"description": "Armani Exchange",
-		"modelo": "AX3055L 8273",
-		"preco": 508,
-		"img": "https://i.ibb.co/fHQGfq3/image.jpg",
-		"discount": 20
-		}
-	],
-	"Masculino//Óculos de Sol":[
-		{
-		"description": "Polaroid",
-		"modelo": "PLD6049/S/X 3YGC3",
-		"preco": 75,
-		"img": "https://i.ibb.co/zHmZ4N3/image.jpg",
-		"discount": 70
-		},
-		{
-		"description": "Ray-Ban",
-		"modelo": "RB3625 9196/31",
-		"preco": 661,
-		"img": "https://i.ibb.co/86n96hN/image.jpg",
-		"discount": 25
-		},
-		{
-		"description": "Ray-Ban",
-		"modelo": "RB4384L 666887",
-		"preco": 524,
-		"img": "https://i.ibb.co/4svWP7N/image.jpg",
-		"discount": 25
-		},
-		{
-		"description": "Ray-Ban",
-		"modelo": "RB3026L L2821",
-		"preco": 747,
-		"img": "https://i.ibb.co/qk9BxST/image.jpg",
-		"discount": 20
-		},
-		{
-		"description": "Oakley",
-		"modelo": "OO9188 -J3",
-		"preco": 856,
-		"img": "https://i.ibb.co/0VW0Z4p/image.jpg",
-		"discount": 20
-		},
-		{
-		"description": "Oakley",
-		"modelo": "OO9102- O3",
-		"preco": 508,
-		"img": "https://i.ibb.co/KGPLzMZ/image.jpg",
-		"discount": 20
-		},
-		{
-		"description": "Tecnol",
-		"modelo": "TN4029 H870",
-		"preco": 238,
-		"img": "https://i.ibb.co/qnb4ZK6/image.jpg",
-		"discount": 20
-		},
-		{
-		"description": "Oakley",
-		"modelo": "OO9479L -09",
-		"preco": 856,
-		"img": "https://i.ibb.co/RYFtR6T/image.jpg",
-		"discount": 20
-		},
-		{
-		"description": "Emporio Armani",
-		"modelo": "EA4029 5042/71",
-		"preco": 821,
-		"img": "https://i.ibb.co/k4nv3V0/image.jpg",
-		"discount": 20
-		},
-		{
-		"description": "Oakley",
-		"modelo": "OO4142 -15",
-		"preco": 894,
-		"img": "https://i.ibb.co/rf820T0/image.jpg",
-		"discount": 20
-		}
-	]
+    "Feminino//Óculos de Grau": [
+        {
+            "sequencial": 10142381,
+            "description": "Ray-Ban",
+            "modelo": "RB6472L 2500",
+            "preco": 499,
+            "discount": 34,
+            "img": "https://i.ibb.co/Qmgp4KS/image.jpg"
+        },
+        {
+            "sequencial": 10132611,
+            "description": "Ray-Ban",
+            "modelo": "RB3447VL 2503",
+            "preco": 649,
+            "discount": 29,
+            "img": "https://i.ibb.co/z7zdZW8/image.jpg"
+        },
+        {
+            "sequencial": 10138229,
+            "description": "Ray-Ban",
+            "modelo": "RB6496L 2502",
+            "preco": 799,
+            "discount": 26,
+            "img": "https://i.ibb.co/3TnNfW3/image.jpg"
+        },
+        {
+            "sequencial": 10128364,
+            "description": "Ray-Ban",
+            "modelo": "RB6456 2509",
+            "preco": 399,
+            "discount": 20,
+            "img": "https://i.ibb.co/z58DypN/image.jpg"
+        },
+        {
+            "sequencial": 10138170,
+            "description": "Ray-Ban",
+            "modelo": "RB7220L 8279",
+            "preco": 749,
+            "discount": 18,
+            "img": "https://i.ibb.co/nQD06vd/image.jpg"
+        },
+        {
+            "sequencial": 10136132,
+            "description": "Ray-Ban",
+            "modelo": "RB3637-V 3094",
+            "preco": 599,
+            "discount": 22,
+            "img": "https://i.ibb.co/dQMPpm9/image.jpg"
+        },
+        {
+            "sequencial": 10120912,
+            "description": "Ray-Ban",
+            "modelo": "RB7140 2000",
+            "preco": 599,
+            "discount": 27,
+            "img": "https://i.ibb.co/ws8W842/image.jpg"
+        },
+        {
+            "sequencial": 10137613,
+            "description": "Ray-Ban",
+            "modelo": "RB6448 2500",
+            "preco": 599,
+            "discount": 19,
+            "img": "https://i.ibb.co/zR2jhmR/image.jpg"
+        },
+        {
+            "sequencial": 10130856,
+            "description": "Ray-Ban",
+            "modelo": "RB0880 2000",
+            "preco": 599,
+            "discount": 24,
+            "img": "https://i.ibb.co/NK9Fp03/image.jpg"
+        },
+        {
+            "sequencial": 10139645,
+            "description": "Ray-Ban",
+            "modelo": "RB3447V 2861",
+            "preco": 649,
+            "discount": 15,
+            "img": "https://i.ibb.co/NtbfWcn/image.jpg"
+        },
+        {
+            "sequencial": 10139714,
+            "description": "Ray-Ban",
+            "modelo": "RB0840V 8297",
+            "preco": 649,
+            "discount": 15,
+            "img": "https://i.ibb.co/NFdKLSk/image.jpg"
+        },
+        {
+            "sequencial": 10142379,
+            "description": "Ray-Ban",
+            "modelo": "RB3947VL 2501",
+            "preco": 499,
+            "discount": 34,
+            "img": "https://i.ibb.co/GJgD6xx/image.jpg"
+        }
+    ],
+    "Feminino//Óculos de Sol": [
+        {
+            "sequencial": 10132590,
+            "description": "Ray-Ban",
+            "modelo": "RB3565 9196/31",
+            "preco": 599,
+            "discount": 28,
+            "img": "https://i.ibb.co/RbfxjN2/image.jpg"
+        },
+        {
+            "sequencial": 10142458,
+            "description": "Ray-Ban",
+            "modelo": "RJ9071S 152/13",
+            "preco": 399,
+            "discount": 33,
+            "img": "https://i.ibb.co/DbZ0MyR/image.jpg"
+        },
+        {
+            "sequencial": 10133886,
+            "description": "Ray-Ban",
+            "modelo": "RB3548-NL 912443",
+            "preco": 849,
+            "discount": 18,
+            "img": "https://i.ibb.co/ChHCMSk/image.jpg"
+        },
+        {
+            "sequencial": 10139221,
+            "description": "Ray-Ban",
+            "modelo": "RB0840-S 6637/2K",
+            "preco": 799,
+            "discount": 25,
+            "img": "https://i.ibb.co/P9xvYrC/image.jpg"
+        },
+        {
+            "sequencial": 10132583,
+            "description": "Ray-Ban",
+            "modelo": "RB1971L 9147/51",
+            "preco": 669,
+            "discount": 35,
+            "img": "https://i.ibb.co/BttYKp2/image.jpg"
+        },
+        {
+            "sequencial": 10138024,
+            "description": "Ray-Ban",
+            "modelo": "RB4395 6677/71",
+            "preco": 649,
+            "discount": 20,
+            "img": "https://i.ibb.co/xg2XYzD/image.jpg"
+        },
+        {
+            "sequencial": 10143552,
+            "description": "Ray-Ban",
+            "modelo": "RB2186 1403/51",
+            "preco": 849,
+            "discount": 16,
+            "img": "https://i.ibb.co/tH0vwg2/image.jpg"
+        },
+        {
+            "sequencial": 10139701,
+            "description": "Ray-Ban",
+            "modelo": "RBR0101S 003/GA",
+            "preco": 799,
+            "discount": 28,
+            "img": "https://i.ibb.co/fx8dxTT/image.jpg"
+        },
+        {
+            "sequencial": 10134307,
+            "description": "Ray-Ban",
+            "modelo": "RB2186 1334/51",
+            "preco": 799,
+            "discount": 20,
+            "img": "https://i.ibb.co/C76mg9F/image.jpg"
+        },
+        {
+            "sequencial": 10120551,
+            "description": "Ray-Ban",
+            "modelo": "RB4292-N 601/11",
+            "preco": 799,
+            "discount": 25,
+            "img": "https://i.ibb.co/pvSpMvx/image.jpg"
+        },
+        {
+            "sequencial": 10139180,
+            "description": "Ray-Ban",
+            "modelo": "RB3647-NL 002/R5",
+            "preco": 799,
+            "discount": 22,
+            "img": "https://i.ibb.co/yqg2HYt/image.jpg"
+        },
+        {
+            "sequencial": 10140648,
+            "description": "Ray-Ban",
+            "modelo": "RB2193 902/31",
+            "preco": 699,
+            "discount": 21,
+            "img": "https://i.ibb.co/Pc7g1j3/image.jpg"
+        }
+    ],
+    "Masculino//Óculos de Grau": [
+        {
+            "sequencial": 10129601,
+            "description": "Ray-Ban",
+            "modelo": "RB6441 2500",
+            "preco": 399,
+            "discount": 32,
+            "img": "https://i.ibb.co/HT7dz5K/image.jpg"
+        },
+        {
+            "sequencial": 10133640,
+            "description": "Ray-Ban",
+            "modelo": "RB6536 2509",
+            "preco": 599,
+            "discount": 19,
+            "img": "https://i.ibb.co/wwdWFd9/image.jpg"
+        },
+        {
+            "sequencial": 10135922,
+            "description": "Ray-Ban",
+            "modelo": "RB6466 3102",
+            "preco": 499,
+            "discount": 36,
+            "img": "https://i.ibb.co/N7cs66p/image.jpg"
+        },
+        {
+            "sequencial": 10131800,
+            "description": "Ray-Ban",
+            "modelo": "RB7137L 5746",
+            "preco": 349,
+            "discount": 36,
+            "img": "https://i.ibb.co/HqJnFSw/image.jpg"
+        },
+        {
+            "sequencial": 10139642,
+            "description": "Ray-Ban",
+            "modelo": "RB0840V 8296",
+            "preco": 649,
+            "discount": 21,
+            "img": "https://i.ibb.co/0mjZgQX/image.jpg"
+        },
+        {
+            "sequencial": 10139278,
+            "description": "Ray-Ban",
+            "modelo": "RB6335 2503",
+            "preco": 549,
+            "discount": 24,
+            "img": "https://i.ibb.co/g33MXjk/image.jpg"
+        },
+        {
+            "sequencial": 10137617,
+            "description": "Ray-Ban",
+            "modelo": "RB7208 5521",
+            "preco": 699,
+            "discount": 19,
+            "img": "https://i.ibb.co/wgDqTs3/image.jpg"
+        },
+        {
+            "sequencial": 10138055,
+            "description": "Ray-Ban",
+            "modelo": "RB7199 8063",
+            "preco": 649,
+            "discount": 23,
+            "img": "https://i.ibb.co/zXbmfxW/image.jpg"
+        },
+        {
+            "sequencial": 10137904,
+            "description": "Ray-Ban",
+            "modelo": "RB7199 5207",
+            "preco": 649,
+            "discount": 29,
+            "img": "https://i.ibb.co/Lr1Z1tS/image.jpg"
+        },
+        {
+            "sequencial": 10139278,
+            "description": "Ray-Ban",
+            "modelo": "RB6335 2503",
+            "preco": 549,
+            "discount": 24,
+            "img": "https://i.ibb.co/g33MXjk/image.jpg"
+        },
+        {
+            "sequencial": 10138055,
+            "description": "Ray-Ban",
+            "modelo": "RB7199 8063",
+            "preco": 649,
+            "discount": 23,
+            "img": "https://i.ibb.co/zXbmfxW/image.jpg"
+        },
+        {
+            "sequencial": 10134903,
+            "description": "Ray-Ban",
+            "modelo": "RB3637-V 2509",
+            "preco": 699,
+            "discount": 21,
+            "img": "https://i.ibb.co/rMZR49R/image.jpg"
+        }
+    ],
+    "Masculino//Óculos de Sol": [
+        {
+            "sequencial": 10137464,
+            "description": "Ray-Ban",
+            "modelo": "RB3030 W3402",
+            "preco": 699,
+            "discount": 22,
+            "img": "https://i.ibb.co/t3qBwb5/image.jpg"
+        },
+        {
+            "sequencial": 10120942,
+            "description": "Ray-Ban",
+            "modelo": "RB3584-N 153/11",
+            "preco": 799,
+            "discount": 25,
+            "img": "https://i.ibb.co/YpysGcz/image.jpg"
+        },
+        {
+            "sequencial": 10129658,
+            "description": "Ray-Ban",
+            "modelo": "RB3503L 006/71",
+            "preco": 599,
+            "discount": 25,
+            "img": "https://i.ibb.co/xFXT2pn/image.jpg"
+        },
+        {
+            "sequencial": 10137967,
+            "description": "Ray-Ban",
+            "modelo": "RB3796 9196/31",
+            "preco": 699,
+            "discount": 21,
+            "img": "https://i.ibb.co/F8RJKW0/image.jpg"
+        },
+        {
+            "sequencial": 10138130,
+            "description": "Ray-Ban",
+            "modelo": "RB4396 6677/71",
+            "preco": 749,
+            "discount": 16,
+            "img": "https://i.ibb.co/8rdP50V/image.jpg"
+        },
+        {
+            "sequencial": 10143130,
+            "description": "Ray-Ban",
+            "modelo": "RB3697-M F009/Y3",
+            "preco": 1289,
+            "discount": 15,
+            "img": "https://i.ibb.co/tLykytB/image.jpg"
+        },
+        {
+            "sequencial": 10139219,
+            "description": "Ray-Ban",
+            "modelo": "RB3025 004/71",
+            "preco": 749,
+            "discount": 22,
+            "img": "https://i.ibb.co/3CQ2s25/image.jpg"
+        },
+        {
+            "sequencial": 10018468,
+            "description": "Ray-Ban",
+            "modelo": "RB3025L 002/58",
+            "preco": 999,
+            "discount": 23,
+            "img": "https://i.ibb.co/HgBT2PW/image.jpg"
+        },
+        {
+            "sequencial": 10139177,
+            "description": "Ray-Ban",
+            "modelo": "RB0840-S 6635/5C",
+            "preco": 799,
+            "discount": 24,
+            "img": "https://i.ibb.co/sgfNG4y/image.jpg"
+        },
+        {
+            "sequencial": 10140490,
+            "description": "Ray-Ban",
+            "modelo": "RBR0501S 6707/GS",
+            "preco": 799,
+            "discount": 24,
+            "img": "https://i.ibb.co/JvZjqrC/image.jpg"
+        }
+    ]
 }
