@@ -20,8 +20,12 @@
 
 .preco_antigo {
   text-decoration: line-through;
+  color: #b51e36
 }
 
+.compare {
+  font-size: 16px;
+}
 
 .card--image {
 	position: absolute;
@@ -139,6 +143,9 @@
 	.card--description h3 {
 		font-size: 2.5vw;
 		margin-bottom: 0.5vw;
+	}
+	.compare {
+		font-size: 2.6vw
 	}
 	.card--description h2 {
 		font-size: 2.5vw;
