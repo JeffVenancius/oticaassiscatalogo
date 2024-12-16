@@ -73,6 +73,7 @@ function Version(props) {
             description={e.description}
             modelo={e.modelo}
             preco={e.preco}
+	    preco_antigo={e.preco_antigo}
 	    id={e.id}
 	    img={e.img}
             discount={e.discount}
