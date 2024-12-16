@@ -4,6 +4,7 @@
             "sequencial": 10142381,
             "description": "Ray-Ban",
             "modelo": "RB6472L 2500",
+            "preco_antigo": 760,
             "preco": 499,
             "discount": 34,
             "img": "https://i.ibb.co/Qmgp4KS/image.jpg"
@@ -12,6 +13,7 @@
             "sequencial": 10132611,
             "description": "Ray-Ban",
             "modelo": "RB3447VL 2503",
+            "preco_antigo": 918,
             "preco": 649,
             "discount": 29,
             "img": "https://i.ibb.co/z7zdZW8/image.jpg"
@@ -20,6 +22,7 @@
             "sequencial": 10138229,
             "description": "Ray-Ban",
             "modelo": "RB6496L 2502",
+            "preco_antigo": 1082,
             "preco": 799,
             "discount": 26,
             "img": "https://i.ibb.co/3TnNfW3/image.jpg"
@@ -28,6 +31,7 @@
             "sequencial": 10128364,
             "description": "Ray-Ban",
             "modelo": "RB6456 2509",
+            "preco_antigo": 497,
             "preco": 399,
             "discount": 20,
             "img": "https://i.ibb.co/p0bg7Bx/image.jpg"
@@ -36,6 +40,7 @@
             "sequencial": 10138170,
             "description": "Ray-Ban",
             "modelo": "RB7220L 8279",
+            "preco_antigo": 918,
             "preco": 749,
             "discount": 18,
             "img": "https://i.ibb.co/nQD06vd/image.jpg"
@@ -44,6 +49,7 @@
             "sequencial": 10136132,
             "description": "Ray-Ban",
             "modelo": "RB3637-V 3094",
+            "preco_antigo": 768,
             "preco": 599,
             "discount": 22,
             "img": "https://i.ibb.co/dQMPpm9/image.jpg"
@@ -52,6 +58,7 @@
             "sequencial": 10120912,
             "description": "Ray-Ban",
             "modelo": "RB7140 2000",
+            "preco_antigo": 816,
             "preco": 599,
             "discount": 27,
             "img": "https://i.ibb.co/ws8W842/image.jpg"
@@ -60,6 +67,7 @@
             "sequencial": 10137613,
             "description": "Ray-Ban",
             "modelo": "RB6448 2500",
+            "preco_antigo": 739,
             "preco": 599,
             "discount": 19,
             "img": "https://i.ibb.co/zR2jhmR/image.jpg"
@@ -68,14 +76,16 @@
             "sequencial": 10130856,
             "description": "Ray-Ban",
             "modelo": "RB0880 2000",
+            "preco_antigo": 880,
             "preco": 599,
-            "discount": 24,
+            "discount": 32,
             "img": "https://i.ibb.co/sPg0qQH/image.jpg"
         },
         {
             "sequencial": 10139645,
             "description": "Ray-Ban",
             "modelo": "RB3447V 2861",
+            "preco_antigo": 768,
             "preco": 649,
             "discount": 15,
             "img": "https://i.ibb.co/jDbxvND/image-3.jpg"
@@ -84,6 +94,7 @@
             "sequencial": 10139714,
             "description": "Ray-Ban",
             "modelo": "RB0840V 8297",
+            "preco_antigo": 768,
             "preco": 649,
             "discount": 15,
             "img": "https://i.ibb.co/NFdKLSk/image.jpg"
@@ -92,6 +103,7 @@
             "sequencial": 10142379,
             "description": "Ray-Ban",
             "modelo": "RB3947VL 2501",
+            "preco_antigo": 760,
             "preco": 499,
             "discount": 34,
             "img": "https://i.ibb.co/GJgD6xx/image.jpg"
@@ -102,6 +114,7 @@
             "sequencial": 10132590,
             "description": "Ray-Ban",
             "modelo": "RB3565 9196/31",
+            "preco_antigo": 830,
             "preco": 599,
             "discount": 28,
             "img": "https://i.ibb.co/RbfxjN2/image.jpg"
@@ -110,6 +123,7 @@
             "sequencial": 10142458,
             "description": "Ray-Ban",
             "modelo": "RJ9071S 152/13",
+            "preco_antigo": 595,
             "preco": 399,
             "discount": 33,
             "img": "https://i.ibb.co/DbZ0MyR/image.jpg"
@@ -118,14 +132,16 @@
             "sequencial": 10133886,
             "description": "Ray-Ban",
             "modelo": "RB3548-NL 912443",
+            "preco_antigo": 1180,
             "preco": 849,
-            "discount": 18,
+            "discount": 28,
             "img": "https://i.ibb.co/FwLzpcn/image-1.jpg"
         },
         {
             "sequencial": 10139221,
             "description": "Ray-Ban",
             "modelo": "RB0840-S 6637/2K",
+            "preco_antigo": 1071,
             "preco": 799,
             "discount": 25,
             "img": "https://i.ibb.co/P9xvYrC/image.jpg"
@@ -134,6 +150,7 @@
             "sequencial": 10132583,
             "description": "Ray-Ban",
             "modelo": "RB1971L 9147/51",
+            "preco_antigo": 1030,
             "preco": 669,
             "discount": 35,
             "img": "https://i.ibb.co/rs19DwN/image.jpg"
@@ -142,6 +159,7 @@
             "sequencial": 10138024,
             "description": "Ray-Ban",
             "modelo": "RB4395 6677/71",
+            "preco_antigo": 816,
             "preco": 649,
             "discount": 20,
             "img": "https://i.ibb.co/xg2XYzD/image.jpg"
@@ -150,6 +168,7 @@
             "sequencial": 10143552,
             "description": "Ray-Ban",
             "modelo": "RB2186 1403/51",
+            "preco_antigo": 1010,
             "preco": 849,
             "discount": 16,
             "img": "https://i.ibb.co/tH0vwg2/image.jpg"
@@ -158,6 +177,7 @@
             "sequencial": 10139701,
             "description": "Ray-Ban",
             "modelo": "RBR0101S 003/GA",
+            "preco_antigo": 1117,
             "preco": 799,
             "discount": 28,
             "img": "https://i.ibb.co/fx8dxTT/image.jpg"
@@ -166,6 +186,7 @@
             "sequencial": 10134307,
             "description": "Ray-Ban",
             "modelo": "RB2186 1334/51",
+            "preco_antigo": 999,
             "preco": 799,
             "discount": 20,
             "img": "https://i.ibb.co/C76mg9F/image.jpg"
@@ -174,6 +195,7 @@
             "sequencial": 10120551,
             "description": "Ray-Ban",
             "modelo": "RB4292-N 601/11",
+            "preco_antigo": 1063,
             "preco": 799,
             "discount": 25,
             "img": "https://i.ibb.co/pvSpMvx/image.jpg"
@@ -182,6 +204,7 @@
             "sequencial": 10139180,
             "description": "Ray-Ban",
             "modelo": "RB3647-NL 002/R5",
+            "preco_antigo": 1029,
             "preco": 799,
             "discount": 22,
             "img": "https://i.ibb.co/yqg2HYt/image.jpg"
@@ -190,6 +213,7 @@
             "sequencial": 10140648,
             "description": "Ray-Ban",
             "modelo": "RB2193 902/31",
+            "preco_antigo": 881,
             "preco": 699,
             "discount": 21,
             "img": "https://i.ibb.co/BLV9Rhx/image-2.jpg"
@@ -200,6 +224,7 @@
             "sequencial": 10129601,
             "description": "Ray-Ban",
             "modelo": "RB6441 2500",
+            "preco_antigo": 589,
             "preco": 399,
             "discount": 32,
             "img": "https://i.ibb.co/NK9pXht/image.jpg"
@@ -208,6 +233,7 @@
             "sequencial": 10133640,
             "description": "Ray-Ban",
             "modelo": "RB6536 2509",
+            "preco_antigo": 740,
             "preco": 599,
             "discount": 19,
             "img": "https://i.ibb.co/GCpVgx1/image.jpg"
@@ -216,6 +242,7 @@
             "sequencial": 10135922,
             "description": "Ray-Ban",
             "modelo": "RB6466 3102",
+            "preco_antigo": 775,
             "preco": 499,
             "discount": 36,
             "img": "https://i.ibb.co/N7cs66p/image.jpg"
@@ -224,6 +251,7 @@
             "sequencial": 10131800,
             "description": "Ray-Ban",
             "modelo": "RB7137L 5746",
+            "preco_antigo": 545,
             "preco": 349,
             "discount": 36,
             "img": "https://i.ibb.co/HqJnFSw/image.jpg"
@@ -232,6 +260,7 @@
             "sequencial": 10139642,
             "description": "Ray-Ban",
             "modelo": "RB0840V 8296",
+            "preco_antigo": 823,
             "preco": 649,
             "discount": 21,
             "img": "https://i.ibb.co/0mjZgQX/image.jpg"
@@ -240,6 +269,7 @@
             "sequencial": 10139278,
             "description": "Ray-Ban",
             "modelo": "RB6335 2503",
+            "preco_antigo": 721,
             "preco": 549,
             "discount": 24,
             "img": "https://i.ibb.co/XVVj8B1/image.jpg"
@@ -248,6 +278,7 @@
             "sequencial": 10137617,
             "description": "Ray-Ban",
             "modelo": "RB7208 5521",
+            "preco_antigo": 863,
             "preco": 699,
             "discount": 19,
             "img": "https://i.ibb.co/wgDqTs3/image.jpg"
@@ -256,6 +287,7 @@
             "sequencial": 10138055,
             "description": "Ray-Ban",
             "modelo": "RB7199 8063",
+            "preco_antigo": 839,
             "preco": 649,
             "discount": 23,
             "img": "https://i.ibb.co/zXbmfxW/image.jpg"
@@ -264,6 +296,7 @@
             "sequencial": 10137904,
             "description": "Ray-Ban",
             "modelo": "RB7199 5207",
+            "preco_antigo": 919,
             "preco": 649,
             "discount": 29,
             "img": "https://i.ibb.co/Lr1Z1tS/image.jpg"
@@ -272,14 +305,16 @@
             "sequencial": 10139278,
             "description": "Ray-Ban",
             "modelo": "RB6335 2503",
+            "preco_antigo": 721,
             "preco": 549,
             "discount": 24,
-            "img": "https://i.ibb.co/g33MXjk/image.jpg"
+            "img": "https://i.ibb.co/XVVj8B1/image.jpg"
         },
         {
             "sequencial": 10138055,
             "description": "Ray-Ban",
             "modelo": "RB7199 8063",
+            "preco_antigo": 839,
             "preco": 649,
             "discount": 23,
             "img": "https://i.ibb.co/zXbmfxW/image.jpg"
@@ -288,6 +323,7 @@
             "sequencial": 10134903,
             "description": "Ray-Ban",
             "modelo": "RB3637-V 2509",
+            "preco_antigo": 880,
             "preco": 699,
             "discount": 21,
             "img": "https://i.ibb.co/rMZR49R/image.jpg"
@@ -298,6 +334,7 @@
             "sequencial": 10137464,
             "description": "Ray-Ban",
             "modelo": "RB3030 W3402",
+            "preco_antigo": 897,
             "preco": 699,
             "discount": 22,
             "img": "https://i.ibb.co/t3qBwb5/image.jpg"
@@ -306,6 +343,7 @@
             "sequencial": 10120942,
             "description": "Ray-Ban",
             "modelo": "RB3584-N 153/11",
+            "preco_antigo": 1063,
             "preco": 799,
             "discount": 25,
             "img": "https://i.ibb.co/YpysGcz/image.jpg"
@@ -314,6 +352,7 @@
             "sequencial": 10129658,
             "description": "Ray-Ban",
             "modelo": "RB3503L 006/71",
+            "preco_antigo": 800,
             "preco": 599,
             "discount": 25,
             "img": "https://i.ibb.co/xFXT2pn/image.jpg"
@@ -322,6 +361,7 @@
             "sequencial": 10137967,
             "description": "Ray-Ban",
             "modelo": "RB3796 9196/31",
+            "preco_antigo": 881,
             "preco": 699,
             "discount": 21,
             "img": "https://i.ibb.co/F8RJKW0/image.jpg"
@@ -330,6 +370,7 @@
             "sequencial": 10138130,
             "description": "Ray-Ban",
             "modelo": "RB4396 6677/71",
+            "preco_antigo": 896,
             "preco": 749,
             "discount": 16,
             "img": "https://i.ibb.co/8rdP50V/image.jpg"
@@ -338,6 +379,7 @@
             "sequencial": 10143130,
             "description": "Ray-Ban",
             "modelo": "RB3697-M F009/Y3",
+            "preco_antigo": 1520,
             "preco": 1289,
             "discount": 15,
             "img": "https://i.ibb.co/tLykytB/image.jpg"
@@ -346,6 +388,7 @@
             "sequencial": 10139219,
             "description": "Ray-Ban",
             "modelo": "RB3025 004/71",
+            "preco_antigo": 962,
             "preco": 749,
             "discount": 22,
             "img": "https://i.ibb.co/3CQ2s25/image.jpg"
@@ -354,6 +397,7 @@
             "sequencial": 10018468,
             "description": "Ray-Ban",
             "modelo": "RB3025L 002/58",
+            "preco_antigo": 1302,
             "preco": 999,
             "discount": 23,
             "img": "https://i.ibb.co/HgBT2PW/image.jpg"
@@ -362,6 +406,7 @@
             "sequencial": 10139177,
             "description": "Ray-Ban",
             "modelo": "RB0840-S 6635/5C",
+            "preco_antigo": 1053,
             "preco": 799,
             "discount": 24,
             "img": "https://i.ibb.co/sgfNG4y/image.jpg"
@@ -370,6 +415,7 @@
             "sequencial": 10140490,
             "description": "Ray-Ban",
             "modelo": "RBR0501S 6707/GS",
+            "preco_antigo": 1054,
             "preco": 799,
             "discount": 24,
             "img": "https://i.ibb.co/JvZjqrC/image.jpg"
