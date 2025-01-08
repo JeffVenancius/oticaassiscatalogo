@@ -22,9 +22,9 @@ function Banner3() {
 		</div>
 	)
   return (
-		<Banner className="banner__3"
+		<a href="https://wa.me/553598652571"><Banner className="banner__3"
 							>
-							</Banner>
+							</Banner></a>
   );
 }
 
