@@ -57,8 +57,10 @@ function Card(props) {
 	  			</div>
 		<div className="card__description_price_container">
 				<h3><span className="compare">De: </span><span className="preco_antigo">{formater.format(props.preco_antigo)}</span></h3>
-				<h3 className="card--description--price"> <span className="compare">Por: </span>{times + "x de " + precoFormatado} sem juros</h3>
-				<p className="card--description--price"> ou {formater.format(props.preco)} à vista</p>
+			{{ times == 1 
+			  ? (<h3 className="card--description--price"> <span className="compare">Por: </span>{precoFormatado} à vista</h3>
+			  : (<h3 className="card--description--price"> <span className="compare">Por: </span>{times + "x de " + precoFormatado} sem juros</h3>
+				<p className="card--description--price"> ou {formater.format(props.preco)} à vista</p>)}}
 		</div>
 				<WppBtn
 					icone={true}
