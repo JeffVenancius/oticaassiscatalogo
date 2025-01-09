@@ -44,7 +44,10 @@ function Card(props) {
 	while (props.preco/times > 60 || times == 12) {
 		times++
 	}
-	times--
+	while (props.preco/times < 60) {
+		times--
+	}
+
 	let precoFormatado = formater.format(props.preco/times)
 	let price_option1 = times == 1 ? precoFormatado + " à vista" : times + "x de " + precoFormatado + " sem juros"
 	let price_option2 =  times == 1 ? "" : "ou " + formater.format(props.preco) + " à vista"
