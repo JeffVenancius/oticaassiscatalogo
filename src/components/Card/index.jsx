@@ -60,7 +60,7 @@ function Card(props) {
 		<div className="card__description_price_container">
 				<h3><span className="compare">De: </span><span className="preco_antigo">{formater.format(props.preco_antigo)}</span></h3>
 			  <h3 className="card--description--price"> <span className="compare">Por: </span>{price_option1}</h3>
-   	                  <p className="card--description--price"> {price_option1}</p>)
+   	                  <p className="card--description--price"> {price_option1}</p>
 		</div>
 				<WppBtn
 					icone={true}
