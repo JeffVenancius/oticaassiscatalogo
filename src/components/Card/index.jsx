@@ -44,7 +44,7 @@ function Card(props) {
 	while (props.preco/times > 60) {
 		times++
 	}
-	times++
+	times--
 	let precoFormatado = formater.format(props.preco/times)
 
   return (
