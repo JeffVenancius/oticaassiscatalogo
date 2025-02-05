@@ -67,7 +67,7 @@ function Card(props) {
 		</div>
 				<WppBtn
 					icone={true}
-					mensagem= {props.btnMensagemPrefixo + props.modelo + "."}
+					mensagem= {props.btnMensagemPrefixo + props.description + ", modelo " + props.modelo + "."}
 					texto="Comprar"
 					btnStyle={{...props.btnStyle, width:"80%"}}
 					iconeSize={props.iconeSize}
