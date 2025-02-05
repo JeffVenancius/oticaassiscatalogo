@@ -4,6 +4,8 @@ import './Banner3.css'
 
 function Banner3() {
 	const [size, setSize] = useState([0, 0]);
+	const queryParameters = new URLSearchParams(window.location.search)
+	const phone = queryParameters.get("wpp") ? queryParameters.get("wpp") : "98652571"
 	useLayoutEffect(() => {
 		function updateSize() {
 			setSize([window.innerWidth, window.innerHeight]);
@@ -22,7 +24,7 @@ function Banner3() {
 		</div>
 	)
   return (
-		<a href="https://wa.me/553598652571"><Banner className="banner__3"
+		<a href={"https://wa.me/5535" + phone}><Banner className="banner__3"
 							>
 							</Banner></a>
   );
