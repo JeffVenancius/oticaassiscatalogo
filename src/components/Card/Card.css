@@ -7,7 +7,7 @@
 	flex-grow: 0;
 	flex-shrink: 0;
 	/* justify-content: space-between; */
-		aspect-ratio: 247/296;
+		aspect-ratio: 370/296;
 		flex-basis: 33.3%;
 }
 
@@ -122,7 +122,6 @@
 @media only screen and (max-width:619px) {
 .card__custom {
 	aspect-ratio: 1/1;
-	margin-bottom: 32px;
 	flex-basis: 50%;
 }
 .card__description_price_container {
