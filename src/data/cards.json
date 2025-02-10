@@ -2,625 +2,1669 @@
     "Feminino//Óculos de Grau": [
         {
             "categoria": "Feminino//Óculos de Grau",
-            "sequencial": 10130828,
-            "marca": "Platini",
-            "description": "Platini",
-            "modelo": "P93162 H417",
-            "preco_antigo": "385",
-            "preco": 199,
-            "discount": 48,
-            "img": "https://i.ibb.co/mcxCvBX/image.jpg"
-        },
-        {
-            "categoria": "Feminino//Óculos de Grau",
-            "sequencial": 10130806,
-            "marca": "Kipling",
-            "description": "Kipling",
-            "modelo": "KP3132 H359",
-            "preco_antigo": "367",
-            "preco": 199,
-            "discount": 46,
-            "img": "https://i.ibb.co/mhhBgkK/image.jpg"
-        },
-        {
-            "categoria": "Feminino//Óculos de Grau",
-            "sequencial": 10133483,
-            "marca": "Jean Monnier",
-            "description": "Jean Monnier",
-            "modelo": "J83213 I570",
-            "preco_antigo": "332",
-            "preco": 189,
-            "discount": 43,
-            "img": "https://i.ibb.co/hL06yYh/image.jpg"
-        },
-        {
-            "categoria": "Feminino//Óculos de Grau",
-            "sequencial": 10137867,
-            "marca": "Victor Hugo",
-            "description": "Victor Hugo",
-            "modelo": "VH1844 0700",
-            "preco_antigo": "975",
-            "preco": 599,
-            "discount": 39,
-            "img": "https://i.ibb.co/gWRf04g/image.jpg"
-        },
-        {
-            "categoria": "Feminino//Óculos de Grau",
-            "sequencial": 10130000,
-            "marca": "Just Cavalli",
-            "description": "Just Cavalli",
-            "modelo": "JC0934 53",
-            "preco_antigo": "691",
-            "preco": 299,
-            "discount": 57,
-            "img": "https://i.ibb.co/52D4t1c/image.jpg"
-        },
-        {
-            "categoria": "Feminino//Óculos de Grau",
-            "sequencial": 10138181,
-            "marca": "Victor Hugo",
-            "description": "Victor Hugo",
-            "modelo": "VH1320 300Y",
-            "preco_antigo": "975",
-            "preco": 599,
-            "discount": 39,
-            "img": "https://i.ibb.co/fFgPg41/image.jpg"
-        },
-        {
-            "categoria": "Feminino//Óculos de Grau",
-            "sequencial": 10138679,
-            "marca": "Seventh Street",
-            "description": "Seventh Street",
-            "modelo": "7A553 OY4",
-            "preco_antigo": "695",
-            "preco": 369,
-            "discount": 47,
-            "img": "https://i.ibb.co/pfsnsxQ/image.jpg"
-        },
-        {
-            "categoria": "Feminino//Óculos de Grau",
-            "sequencial": 10138026,
-            "marca": "Vogue",
-            "description": "Vogue",
-            "modelo": "VO5439 3006",
-            "preco_antigo": "681",
-            "preco": 389,
-            "discount": 43,
-            "img": "https://i.ibb.co/g6NjLvM/image.jpg"
-        },
-        {
-            "categoria": "Feminino//Óculos de Grau",
-            "sequencial": 10133551,
-            "marca": "Vogue",
-            "description": "Vogue",
-            "modelo": "VO4225-L 5159",
-            "preco_antigo": "529",
-            "preco": 289,
-            "discount": 45,
-            "img": "https://i.ibb.co/VvdtRgn/image.jpg"
-        },
-        {
-            "categoria": "Feminino//Óculos de Grau",
-            "sequencial": 10139483,
-            "marca": "Polaroid",
-            "description": "Polaroid",
-            "modelo": "PLDD356/G PJP",
-            "preco_antigo": "362",
-            "preco": 199,
-            "discount": 45,
-            "img": "https://i.ibb.co/cgrMM0V/image.jpg"
-        },
-        {
-            "categoria": "Feminino//Óculos de Grau",
-            "sequencial": 10139372,
-            "marca": "Love Moschino",
-            "description": "Love Moschino",
-            "modelo": "MOL589 C9N",
-            "preco_antigo": "985",
-            "preco": 399,
-            "discount": 59,
-            "img": "https://i.ibb.co/txNT1c6/image.jpg"
-        },
-        {
-            "categoria": "Feminino//Óculos de Grau",
-            "sequencial": 10129995,
-            "marca": "Just Cavalli",
-            "description": "Just Cavalli",
-            "modelo": "JC0878 54",
-            "preco_antigo": "637",
-            "preco": 199,
-            "discount": 69,
-            "img": "https://i.ibb.co/CHngGDP/image.jpg"
-        },
-        {
-            "categoria": "Feminino//Óculos de Grau",
-            "sequencial": 10125465,
-            "marca": "Carolina Herrera",
-            "description": "Carolina Herrera",
-            "modelo": "VHE108 08GJ",
-            "preco_antigo": "1275",
-            "preco": 499,
-            "discount": 61,
-            "img": "https://i.ibb.co/84VcpqT/image.jpg"
-        },
-        {
-            "categoria": "Feminino//Óculos de Grau",
-            "sequencial": 10133578,
-            "marca": "Levis",
-            "description": "Levis",
-            "modelo": "LV5026 HKZ",
-            "preco_antigo": "687",
-            "preco": 249,
-            "discount": 64,
-            "img": "https://i.ibb.co/JrDsqmG/image.jpg"
-        },
-        {
-            "categoria": "Feminino//Óculos de Grau",
-            "sequencial": 10136726,
-            "marca": "Guess",
-            "description": "Guess",
-            "modelo": "GU2539 001",
-            "preco_antigo": "650",
-            "preco": 269,
-            "discount": 59,
-            "img": "https://i.ibb.co/vDWdZny/image.jpg"
-        },
-        {
-            "categoria": "Feminino//Óculos de Grau",
-            "sequencial": 10130757,
-            "marca": "Ralph",
-            "description": "Ralph",
-            "modelo": "RA7122 5892",
-            "preco_antigo": "527",
-            "preco": 299,
-            "discount": 43,
-            "img": "https://i.ibb.co/2W3HrDJ/image.jpg"
-        },
-        {
-            "categoria": "Feminino//Óculos de Grau",
-            "sequencial": 10139376,
-            "marca": "Love Moschino",
-            "description": "Love Moschino",
-            "modelo": "MOL592 PJP",
-            "preco_antigo": "1136",
-            "preco": 399,
-            "discount": 65,
-            "img": "https://i.ibb.co/yS63zjf/image.jpg"
-        },
-        {
-            "categoria": "Feminino//Óculos de Grau",
-            "sequencial": 10136727,
-            "marca": "Guess",
-            "description": "Guess",
-            "modelo": "GU2694 92",
-            "preco_antigo": "650",
-            "preco": 269,
-            "discount": 59,
-            "img": "https://i.ibb.co/C8qN1vM/image.jpg"
-        },
-        {
-            "categoria": "Feminino//Óculos de Grau",
-            "sequencial": 10138481,
-            "marca": "Carmen Vitti",
-            "description": "Carmen Vitti",
-            "modelo": "CV0371 C2",
-            "preco_antigo": "791",
-            "preco": 399,
-            "discount": 50,
-            "img": "https://i.ibb.co/GVNSd1Y/image.jpg"
-        },
-        {
-            "categoria": "Feminino//Óculos de Grau",
-            "sequencial": 10137234,
             "marca": "Ana Hickmann",
             "description": "Ana Hickmann",
-            "modelo": "AH10017 04B",
-            "preco_antigo": "895",
-            "preco": 499,
-            "discount": 44,
+            "modelo": "AH1284",
+            "preco": 597,
+            "img": "https://i.ibb.co/5Ww3Lnq/image.jpg"
+        },
+        {
+            "categoria": "Feminino//Óculos de Grau",
+            "marca": "Ana Hickmann",
+            "description": "Ana Hickmann",
+            "modelo": "AH1196",
+            "preco": 597,
+            "img": "https://i.ibb.co/sjJVb0D/image.jpg"
+        },
+        {
+            "categoria": "Feminino//Óculos de Grau",
+            "marca": "Ana Hickmann",
+            "description": "Ana Hickmann",
+            "modelo": "AH60051",
+            "preco": 1078,
+            "img": "https://i.ibb.co/mD4Js46/image.jpg"
+        },
+        {
+            "categoria": "Feminino//Óculos de Grau",
+            "marca": "Ana Hickmann",
+            "description": "Ana Hickmann",
+            "modelo": "AH10009",
+            "preco": 765,
+            "img": "https://i.ibb.co/tpN2SvD/image.jpg"
+        },
+        {
+            "categoria": "Feminino//Óculos de Grau",
+            "marca": "Ana Hickmann",
+            "description": "Ana Hickmann",
+            "modelo": "AH10017",
+            "preco": 659,
+            "img": "https://i.ibb.co/y4xRycs/image.jpg"
+        },
+        {
+            "categoria": "Feminino//Óculos de Grau",
+            "marca": "Ana Hickmann",
+            "description": "Ana Hickmann",
+            "modelo": "AH10017",
+            "preco": 659,
             "img": "https://i.ibb.co/tx6C5cR/image.jpg"
+        },
+        {
+            "categoria": "Feminino//Óculos de Grau",
+            "marca": "Ana Hickmann",
+            "description": "Ana Hickmann",
+            "modelo": "AH10017",
+            "preco": 659,
+            "img": "https://i.ibb.co/dbFKLjs/image.jpg"
+        },
+        {
+            "categoria": "Feminino//Óculos de Grau",
+            "marca": "Ana Hickmann",
+            "description": "Ana Hickmann",
+            "modelo": "AH1088",
+            "preco": 597,
+            "img": "https://i.ibb.co/f8JyZHy/image.jpg"
+        },
+        {
+            "categoria": "Feminino//Óculos de Grau",
+            "marca": "Ana Hickmann",
+            "description": "Ana Hickmann",
+            "modelo": "AH1088",
+            "preco": 597,
+            "img": "https://i.ibb.co/C0X9hjv/image.jpg"
+        },
+        {
+            "categoria": "Feminino//Óculos de Grau",
+            "marca": "Ana Hickmann",
+            "description": "Ana Hickmann",
+            "modelo": "AH1123",
+            "preco": 665,
+            "img": "https://i.ibb.co/v1jxZXk/image.jpg"
+        },
+        {
+            "categoria": "Feminino//Óculos de Grau",
+            "marca": "Ana Hickmann",
+            "description": "Ana Hickmann",
+            "modelo": "AH60035",
+            "preco": 729,
+            "img": "https://i.ibb.co/djNZpzV/image.jpg"
+        },
+        {
+            "categoria": "Feminino//Óculos de Grau",
+            "marca": "Ana Hickmann",
+            "description": "Ana Hickmann",
+            "modelo": "AH60037",
+            "preco": 691,
+            "img": "https://i.ibb.co/JzDgKF6/image.jpg"
+        },
+        {
+            "categoria": "Feminino//Óculos de Grau",
+            "marca": "Ana Hickmann",
+            "description": "Ana Hickmann",
+            "modelo": "AH60038",
+            "preco": 730,
+            "img": "https://i.ibb.co/J3jx1NG/image.jpg"
+        },
+        {
+            "categoria": "Feminino//Óculos de Grau",
+            "marca": "Ana Hickmann",
+            "description": "Ana Hickmann",
+            "modelo": "AH60045",
+            "preco": 719,
+            "img": "https://i.ibb.co/kygvgBv/image.jpg"
+        },
+        {
+            "categoria": "Feminino//Óculos de Grau",
+            "marca": "Ana Hickmann",
+            "description": "Ana Hickmann",
+            "modelo": "AH60053",
+            "preco": 810,
+            "img": "https://i.ibb.co/svKz8f4/image.jpg"
+        },
+        {
+            "categoria": "Feminino//Óculos de Grau",
+            "marca": "Ana Hickmann",
+            "description": "Ana Hickmann",
+            "modelo": "AH60034",
+            "preco": 880,
+            "img": "https://i.ibb.co/gtjwSbc/image.jpg"
+        },
+        {
+            "categoria": "Feminino//Óculos de Grau",
+            "marca": "Ana Hickmann",
+            "description": "Ana Hickmann",
+            "modelo": "AH60035",
+            "preco": 729,
+            "img": "https://i.ibb.co/sJmXzTk/image.jpg"
+        },
+        {
+            "categoria": "Feminino//Óculos de Grau",
+            "marca": "Bulget",
+            "description": "Bulget",
+            "modelo": "BG4098N",
+            "preco": 327,
+            "img": "https://i.ibb.co/Lxm5YjN/image.jpg"
+        },
+        {
+            "categoria": "Feminino//Óculos de Grau",
+            "marca": "Bulget",
+            "description": "Bulget",
+            "modelo": "BG7156",
+            "preco": 590,
+            "img": "https://i.ibb.co/sKt22VL/image.jpg"
+        },
+        {
+            "categoria": "Feminino//Óculos de Grau",
+            "marca": "Bulget",
+            "description": "Bulget",
+            "modelo": "BG7141",
+            "preco": 512,
+            "img": "https://i.ibb.co/tXGKKS2/image.jpg"
+        },
+        {
+            "categoria": "Feminino//Óculos de Grau",
+            "marca": "Kipling",
+            "description": "Kipling",
+            "modelo": "KP3143",
+            "preco": 520,
+            "img": "https://i.ibb.co/zn839XP/image.jpg"
+        },
+        {
+            "categoria": "Feminino//Óculos de Grau",
+            "marca": "Kipling",
+            "description": "Kipling",
+            "modelo": "KP3156",
+            "preco": 452,
+            "img": "https://i.ibb.co/b2vj8Lk/image.jpg"
+        },
+        {
+            "categoria": "Feminino//Óculos de Grau",
+            "marca": "Kipling",
+            "description": "Kipling",
+            "modelo": "KP3160",
+            "preco": 434,
+            "img": "https://i.ibb.co/f4DfHGq/image.jpg"
+        },
+        {
+            "categoria": "Feminino//Óculos de Grau",
+            "marca": "Kipling",
+            "description": "Kipling",
+            "modelo": "KP3154",
+            "preco": 495,
+            "img": "https://i.ibb.co/wp4HrH3/image.jpg"
+        },
+        {
+            "categoria": "Feminino//Óculos de Grau",
+            "marca": "Kipling",
+            "description": "Kipling",
+            "modelo": "KP3155",
+            "preco": 434,
+            "img": "https://i.ibb.co/rMw595J/image.jpg"
+        },
+        {
+            "categoria": "Feminino//Óculos de Grau",
+            "marca": "Kipling",
+            "description": "Kipling",
+            "modelo": "KP1122",
+            "preco": 620,
+            "img": "https://i.ibb.co/ZWNd9ZQ/image.jpg"
+        },
+        {
+            "categoria": "Feminino//Óculos de Grau",
+            "marca": "Kipling",
+            "description": "Kipling",
+            "modelo": "KP1123",
+            "preco": 542,
+            "img": "https://i.ibb.co/C9Drn9d/image.jpg"
+        },
+        {
+            "categoria": "Feminino//Óculos de Grau",
+            "marca": "Kipling",
+            "description": "Kipling",
+            "modelo": "KP3177",
+            "preco": 461,
+            "img": "https://i.ibb.co/1rQ8m4D/image.jpg"
+        },
+        {
+            "categoria": "Feminino//Óculos de Grau",
+            "marca": "Kipling",
+            "description": "Kipling",
+            "modelo": "KP3172",
+            "preco": 452,
+            "img": "https://i.ibb.co/Ltfm9Cf/image.jpg"
+        },
+        {
+            "categoria": "Feminino//Óculos de Grau",
+            "marca": "Kipling",
+            "description": "Kipling",
+            "modelo": "KP1117",
+            "preco": 525,
+            "img": "https://i.ibb.co/K5hQQRT/image.jpg"
+        },
+        {
+            "categoria": "Feminino//Óculos de Grau",
+            "marca": "Kipling",
+            "description": "Kipling",
+            "modelo": "KP3074",
+            "preco": 298,
+            "img": "https://i.ibb.co/Lkg3bc8/image.jpg"
+        },
+        {
+            "categoria": "Feminino//Óculos de Grau",
+            "marca": "Kipling",
+            "description": "Kipling",
+            "modelo": "KP3084",
+            "preco": 320,
+            "img": "https://i.ibb.co/Thdy6GC/image.jpg"
+        },
+        {
+            "categoria": "Feminino//Óculos de Grau",
+            "marca": "Kipling",
+            "description": "Kipling",
+            "modelo": "KP3112",
+            "preco": 485,
+            "img": "https://i.ibb.co/svmsWbg/image.jpg"
+        },
+        {
+            "categoria": "Feminino//Óculos de Grau",
+            "marca": "Kipling",
+            "description": "Kipling",
+            "modelo": "KP3122",
+            "preco": 485,
+            "img": "https://i.ibb.co/6vNvvSM/image.jpg"
+        },
+        {
+            "categoria": "Feminino//Óculos de Grau",
+            "marca": "Kipling",
+            "description": "Kipling",
+            "modelo": "KP3126",
+            "preco": 367,
+            "img": "https://i.ibb.co/K9CvkFr/image.jpg"
+        },
+        {
+            "categoria": "Feminino//Óculos de Grau",
+            "marca": "Michael Kors",
+            "description": "Michael Kors",
+            "modelo": "MK3072",
+            "preco": 1236,
+            "img": "https://i.ibb.co/4MXyML6/image.jpg"
+        },
+        {
+            "categoria": "Feminino//Óculos de Grau",
+            "marca": "Victor Hugo",
+            "description": "Victor Hugo",
+            "modelo": "VH1271",
+            "preco": 1067,
+            "img": "https://i.ibb.co/tL1mxww/image.jpg"
+        },
+        {
+            "categoria": "Feminino//Óculos de Grau",
+            "marca": "Victor Hugo",
+            "description": "Victor Hugo",
+            "modelo": "VH1297",
+            "preco": 955,
+            "img": "https://i.ibb.co/8rqgrPF/image.jpg"
+        },
+        {
+            "categoria": "Feminino//Óculos de Grau",
+            "marca": "Victor Hugo",
+            "description": "Victor Hugo",
+            "modelo": "VH1299",
+            "preco": 1015,
+            "img": "https://i.ibb.co/r3KG9y8/image.jpg"
+        },
+        {
+            "categoria": "Feminino//Óculos de Grau",
+            "marca": "Victor Hugo",
+            "description": "Victor Hugo",
+            "modelo": "VH1300",
+            "preco": 1015,
+            "img": "https://i.ibb.co/XCtT23b/image.jpg"
+        },
+        {
+            "categoria": "Feminino//Óculos de Grau",
+            "marca": "Victor Hugo",
+            "description": "Victor Hugo",
+            "modelo": "VH1328",
+            "preco": 1488,
+            "img": "https://i.ibb.co/9y9HTyH/image.jpg"
+        },
+        {
+            "categoria": "Feminino//Óculos de Grau",
+            "marca": "Victor Hugo",
+            "description": "Victor Hugo",
+            "modelo": "VH1330",
+            "preco": 1395,
+            "img": "https://i.ibb.co/QDVTb0b/image.jpg"
+        },
+        {
+            "categoria": "Feminino//Óculos de Grau",
+            "marca": "Victor Hugo",
+            "description": "Victor Hugo",
+            "modelo": "VH1330",
+            "preco": 1395,
+            "img": "https://i.ibb.co/d5q1trN/image.jpg"
+        },
+        {
+            "categoria": "Feminino//Óculos de Grau",
+            "marca": "Victor Hugo",
+            "description": "Victor Hugo",
+            "modelo": "VH1331",
+            "preco": 1442,
+            "img": "https://i.ibb.co/VMc8Dxt/image.jpg"
+        },
+        {
+            "categoria": "Feminino//Óculos de Grau",
+            "marca": "Victor Hugo",
+            "description": "Victor Hugo",
+            "modelo": "VH1335",
+            "preco": 1442,
+            "img": "https://i.ibb.co/R2QzgVF/image.jpg"
+        },
+        {
+            "categoria": "Feminino//Óculos de Grau",
+            "marca": "Victor Hugo",
+            "description": "Victor Hugo",
+            "modelo": "VH1336",
+            "preco": 1442,
+            "img": "https://i.ibb.co/tYvxgw6/image.jpg"
+        },
+        {
+            "categoria": "Feminino//Óculos de Grau",
+            "marca": "Vogue",
+            "description": "Vogue",
+            "modelo": "VO5507-L",
+            "preco": 898,
+            "img": "https://i.ibb.co/JtbY8s4/image.jpg"
+        },
+        {
+            "categoria": "Feminino//Óculos de Grau",
+            "marca": "Vogue",
+            "description": "Vogue",
+            "modelo": "VO4177",
+            "preco": 570,
+            "img": "https://i.ibb.co/tP1Y0QJ/image.jpg"
+        },
+        {
+            "categoria": "Feminino//Óculos de Grau",
+            "marca": "Vogue",
+            "description": "Vogue",
+            "modelo": "VO4287-L",
+            "preco": 683,
+            "img": "https://i.ibb.co/f0DSFVG/image.jpg"
+        },
+        {
+            "categoria": "Feminino//Óculos de Grau",
+            "marca": "Vogue",
+            "description": "Vogue",
+            "modelo": "VO5416-L",
+            "preco": 650,
+            "img": "https://i.ibb.co/BtCS32R/image.jpg"
+        },
+        {
+            "categoria": "Feminino//Óculos de Grau",
+            "marca": "Vogue",
+            "description": "Vogue",
+            "modelo": "VO5416L",
+            "preco": 573,
+            "img": "https://i.ibb.co/0XRHxdh/image.jpg"
+        },
+        {
+            "categoria": "Feminino//Óculos de Grau",
+            "marca": "Vogue",
+            "description": "Vogue",
+            "modelo": "VO5507-L",
+            "preco": 683,
+            "img": "https://i.ibb.co/T119R6m/image.jpg"
+        },
+        {
+            "categoria": "Feminino//Óculos de Grau",
+            "marca": "Vogue",
+            "description": "Vogue",
+            "modelo": "VO5528",
+            "preco": 570,
+            "img": "https://i.ibb.co/QvMLpb9/image.jpg"
+        },
+        {
+            "categoria": "Feminino//Óculos de Grau",
+            "marca": "Vogue",
+            "description": "Vogue",
+            "modelo": "VO5539-L",
+            "preco": 712,
+            "img": "https://i.ibb.co/fFcPQZR/image.jpg"
+        },
+        {
+            "categoria": "Feminino//Óculos de Grau",
+            "marca": "Vogue",
+            "description": "Vogue",
+            "modelo": "VO5539-L",
+            "preco": 712,
+            "img": "https://i.ibb.co/VC5F2Qq/image.jpg"
+        },
+        {
+            "categoria": "Feminino//Óculos de Grau",
+            "marca": "Vogue",
+            "description": "Vogue",
+            "modelo": "VO5577-L",
+            "preco": 807,
+            "img": "https://i.ibb.co/cCmx14K/image.jpg"
+        },
+        {
+            "categoria": "Feminino//Óculos de Grau",
+            "marca": "Vogue",
+            "description": "Vogue",
+            "modelo": "VO5577-L",
+            "preco": 572,
+            "img": "https://i.ibb.co/tzq1Hf2/image.jpg"
         }
     ],
     "Feminino//Óculos de Sol": [
         {
             "categoria": "Feminino//Óculos de Sol",
-            "sequencial": 10129974,
-            "marca": "Just Cavalli",
-            "description": "Just Cavalli",
-            "modelo": "JC867S 56G",
-            "preco_antigo": "795",
-            "preco": 199,
-            "discount": 75,
-            "img": "https://i.ibb.co/7rNDVMR/image.jpg"
+            "marca": "Ana Hickmann",
+            "description": "Ana Hickmann",
+            "modelo": "AH3231N",
+            "preco": 722,
+            "img": "https://i.ibb.co/tmmjSnC/image.jpg"
         },
         {
             "categoria": "Feminino//Óculos de Sol",
-            "sequencial": 10140227,
-            "marca": "Armani Exchange",
-            "description": "Armani Exchange",
-            "modelo": "AX4140S 834213",
-            "preco_antigo": "698",
-            "preco": 499,
-            "discount": 29,
-            "img": "https://i.ibb.co/2ckWCGp/image.jpg"
+            "marca": "Ana Hickmann",
+            "description": "Ana Hickmann",
+            "modelo": "AH9325",
+            "preco": 774,
+            "img": "https://i.ibb.co/6vdY1vj/image.jpg"
         },
         {
             "categoria": "Feminino//Óculos de Sol",
-            "sequencial": 10139586,
-            "marca": "Jean Monnier",
-            "description": "Jean Monnier",
-            "modelo": "J84161 K920",
-            "preco_antigo": "411",
-            "preco": 299,
-            "discount": 27,
-            "img": "https://i.ibb.co/QdgyTvk/image.jpg"
+            "marca": "Ana Hickmann",
+            "description": "Ana Hickmann",
+            "modelo": "AH60033",
+            "preco": 895,
+            "img": "https://i.ibb.co/jR6zf4V/image.jpg"
         },
         {
             "categoria": "Feminino//Óculos de Sol",
-            "sequencial": 10134203,
-            "marca": "Guess",
-            "description": "Guess",
-            "modelo": "GU8241 01B",
-            "preco_antigo": "677",
-            "preco": 499,
-            "discount": 26,
-            "img": "https://i.ibb.co/pK4KHQp/image.jpg"
+            "marca": "Kipling",
+            "description": "Kipling",
+            "modelo": "KP4073",
+            "preco": 497,
+            "img": "https://i.ibb.co/DkLkZcv/image.jpg"
         },
         {
             "categoria": "Feminino//Óculos de Sol",
-            "sequencial": 10135239,
-            "marca": "Tcharge",
-            "description": "Tcharge",
-            "modelo": "T9056 G21",
-            "preco_antigo": "689",
-            "preco": 249,
-            "discount": 64,
-            "img": "https://i.ibb.co/v44V0q8/image.jpg"
+            "marca": "Kipling",
+            "description": "Kipling",
+            "modelo": "KP4062",
+            "preco": 379,
+            "img": "https://i.ibb.co/C2HFbWN/image.jpg"
         },
         {
             "categoria": "Feminino//Óculos de Sol",
-            "sequencial": 10133561,
+            "marca": "Kipling",
+            "description": "Kipling",
+            "modelo": "KP4043",
+            "preco": 320,
+            "img": "https://i.ibb.co/gP2Jz49/image.jpg"
+        },
+        {
+            "categoria": "Feminino//Óculos de Sol",
+            "marca": "Kipling",
+            "description": "Kipling",
+            "modelo": "KP4053",
+            "preco": 389,
+            "img": "https://i.ibb.co/YQwbgM7/image.jpg"
+        },
+        {
+            "categoria": "Feminino//Óculos de Sol",
+            "marca": "Kipling",
+            "description": "Kipling",
+            "modelo": "KP2020",
+            "preco": 437,
+            "img": "https://i.ibb.co/h7NPfdp/image.jpg"
+        },
+        {
+            "categoria": "Feminino//Óculos de Sol",
+            "marca": "Michael Kors",
+            "description": "Michael Kors",
+            "modelo": "MK2195U",
+            "preco": 980,
+            "img": "https://i.ibb.co/mBBNT3G/image.jpg"
+        },
+        {
+            "categoria": "Feminino//Óculos de Sol",
+            "marca": "Michael Kors",
+            "description": "Michael Kors",
+            "modelo": "MK2199",
+            "preco": 1299,
+            "img": "https://i.ibb.co/2nd5kZh/image.jpg"
+        },
+        {
+            "categoria": "Feminino//Óculos de Sol",
+            "marca": "Michael Kors",
+            "description": "Michael Kors",
+            "modelo": "MK2201",
+            "preco": 1299,
+            "img": "https://i.ibb.co/cNzDZfp/image.jpg"
+        },
+        {
+            "categoria": "Feminino//Óculos de Sol",
+            "marca": "Victor Hugo",
+            "description": "Victor Hugo",
+            "modelo": "SH1270",
+            "preco": 1314,
+            "img": "https://i.ibb.co/HhJ1MM1/image.jpg"
+        },
+        {
+            "categoria": "Feminino//Óculos de Sol",
+            "marca": "Victor Hugo",
+            "description": "Victor Hugo",
+            "modelo": "SH1270",
+            "preco": 1314,
+            "img": "https://i.ibb.co/mTgmhWc/image.jpg"
+        },
+        {
+            "categoria": "Feminino//Óculos de Sol",
+            "marca": "Victor Hugo",
+            "description": "Victor Hugo",
+            "modelo": "SH1289",
+            "preco": 943,
+            "img": "https://i.ibb.co/zsPVQkz/image.jpg"
+        },
+        {
+            "categoria": "Feminino//Óculos de Sol",
+            "marca": "Victor Hugo",
+            "description": "Victor Hugo",
+            "modelo": "SH1292",
+            "preco": 943,
+            "img": "https://i.ibb.co/Yk8t6CZ/image.jpg"
+        },
+        {
+            "categoria": "Feminino//Óculos de Sol",
+            "marca": "Victor Hugo",
+            "description": "Victor Hugo",
+            "modelo": "SH1313S",
+            "preco": 1017,
+            "img": "https://i.ibb.co/Qk664B1/image.jpg"
+        },
+        {
+            "categoria": "Feminino//Óculos de Sol",
+            "marca": "Victor Hugo",
+            "description": "Victor Hugo",
+            "modelo": "SH1313S",
+            "preco": 1017,
+            "img": "https://i.ibb.co/wJXzR9n/image.jpg"
+        },
+        {
+            "categoria": "Feminino//Óculos de Sol",
+            "marca": "Victor Hugo",
+            "description": "Victor Hugo",
+            "modelo": "SH1315",
+            "preco": 1014,
+            "img": "https://i.ibb.co/51vXTW6/image.jpg"
+        },
+        {
+            "categoria": "Feminino//Óculos de Sol",
+            "marca": "Victor Hugo",
+            "description": "Victor Hugo",
+            "modelo": "SH1346",
+            "preco": 1455,
+            "img": "https://i.ibb.co/jkmw59Q/image.jpg"
+        },
+        {
+            "categoria": "Feminino//Óculos de Sol",
+            "marca": "Victor Hugo",
+            "description": "Victor Hugo",
+            "modelo": "SH1789",
+            "preco": 880,
+            "img": "https://i.ibb.co/HCYhfc3/image.jpg"
+        },
+        {
+            "categoria": "Feminino//Óculos de Sol",
+            "marca": "Victor Hugo",
+            "description": "Victor Hugo",
+            "modelo": "SH1794",
+            "preco": 898,
+            "img": "https://i.ibb.co/TPDL4Cd/image.jpg"
+        },
+        {
+            "categoria": "Feminino//Óculos de Sol",
             "marca": "Vogue",
             "description": "Vogue",
-            "modelo": "VO5391-SL 294136",
-            "preco_antigo": "604",
-            "preco": 399,
-            "discount": 34,
-            "img": "https://i.ibb.co/pbLcLBw/image.jpg"
+            "modelo": "VO4284-S",
+            "preco": 690,
+            "img": "https://i.ibb.co/4dw2hGV/image.jpg"
         },
         {
             "categoria": "Feminino//Óculos de Sol",
-            "sequencial": 10133672,
-            "marca": "Armani Exchange",
-            "description": "Armani Exchange",
-            "modelo": "AX4111SU 815873",
-            "preco_antigo": "648",
-            "preco": 389,
-            "discount": 40,
-            "img": "https://i.ibb.co/Bj4NXHS/image.jpg"
+            "marca": "Vogue",
+            "description": "Vogue",
+            "modelo": "VO4284-S",
+            "preco": 690,
+            "img": "https://i.ibb.co/W0cbq4R/image.jpg"
         },
         {
             "categoria": "Feminino//Óculos de Sol",
-            "sequencial": 10135128,
-            "marca": "Polaroid",
-            "description": "Polaroid",
-            "modelo": "PLD4083/F/S 807M9",
-            "preco_antigo": "389",
-            "preco": 199,
-            "discount": 49,
-            "img": "https://i.ibb.co/fNSC2sZ/image.jpg"
+            "marca": "Vogue",
+            "description": "Vogue",
+            "modelo": "VO4288-SL",
+            "preco": 770,
+            "img": "https://i.ibb.co/zFsGbRm/image.jpg"
         },
         {
             "categoria": "Feminino//Óculos de Sol",
-            "sequencial": 10137137,
-            "marca": "Gant",
-            "description": "Gant",
-            "modelo": "GA7103 32V",
-            "preco_antigo": "690",
-            "preco": 299,
-            "discount": 57,
-            "img": "https://i.ibb.co/DYFZWfS/image.jpg"
+            "marca": "Vogue",
+            "description": "Vogue",
+            "modelo": "VO5341-SL",
+            "preco": 590,
+            "img": "https://i.ibb.co/nfJBnZp/image.jpg"
         },
         {
             "categoria": "Feminino//Óculos de Sol",
-            "sequencial": 10136618,
-            "marca": "Guess",
-            "description": "Guess",
-            "modelo": "GU6737 GLD-1F",
-            "preco_antigo": "650",
-            "preco": 269,
-            "discount": 59,
-            "img": "https://i.ibb.co/Rv0B72R/image.jpg"
+            "marca": "Vogue",
+            "description": "Vogue",
+            "modelo": "VO5409S",
+            "preco": 614,
+            "img": "https://i.ibb.co/svZVGsm/image.jpg"
+        },
+        {
+            "categoria": "Feminino//Óculos de Sol",
+            "marca": "Vogue",
+            "description": "Vogue",
+            "modelo": "VO5419-SL",
+            "preco": 604,
+            "img": "https://i.ibb.co/3Bvt6xt/image.jpg"
+        },
+        {
+            "categoria": "Feminino//Óculos de Sol",
+            "marca": "Vogue",
+            "description": "Vogue",
+            "modelo": "VO5538-SL",
+            "preco": 872,
+            "img": "https://i.ibb.co/9cSgcRh/image.jpg"
+        },
+        {
+            "categoria": "Feminino//Óculos de Sol",
+            "marca": "Vogue",
+            "description": "Vogue",
+            "modelo": "VO5538-SL",
+            "preco": 872,
+            "img": "https://i.ibb.co/YWNtbsw/image.jpg"
+        },
+        {
+            "categoria": "Feminino//Óculos de Sol",
+            "marca": "Vogue",
+            "description": "Vogue",
+            "modelo": "VO5538-SL",
+            "preco": 710,
+            "img": "https://i.ibb.co/qRdSXy6/image.jpg"
+        },
+        {
+            "categoria": "Feminino//Óculos de Sol",
+            "marca": "Vogue",
+            "description": "Vogue",
+            "modelo": "VO5538-SL",
+            "preco": 732,
+            "img": "https://i.ibb.co/vhJTb5V/image.jpg"
         }
     ],
     "Masculino//Óculos de Grau": [
         {
             "categoria": "Masculino//Óculos de Grau",
-            "sequencial": 10136885,
+            "marca": "Armani Exchange",
+            "description": "Armani Exchange",
+            "modelo": "AX3114",
+            "preco": 702,
+            "img": "https://i.ibb.co/LpX04DX/image.jpg"
+        },
+        {
+            "categoria": "Masculino//Óculos de Grau",
+            "marca": "Armani Exchange",
+            "description": "Armani Exchange",
+            "modelo": "AX3115",
+            "preco": 640,
+            "img": "https://i.ibb.co/sbvzwCW/image.jpg"
+        },
+        {
+            "categoria": "Masculino//Óculos de Grau",
+            "marca": "Armani Exchange",
+            "description": "Armani Exchange",
+            "modelo": "AX3094",
+            "preco": 573,
+            "img": "https://i.ibb.co/WvK0y0N/image.jpg"
+        },
+        {
+            "categoria": "Masculino//Óculos de Grau",
+            "marca": "Armani Exchange",
+            "description": "Armani Exchange",
+            "modelo": "AX1038",
+            "preco": 504,
+            "img": "https://i.ibb.co/C2YNh8r/image.jpg"
+        },
+        {
+            "categoria": "Masculino//Óculos de Grau",
+            "marca": "Armani Exchange",
+            "description": "Armani Exchange",
+            "modelo": "AX1046",
+            "preco": 512,
+            "img": "https://i.ibb.co/4jL4xnq/image.jpg"
+        },
+        {
+            "categoria": "Masculino//Óculos de Grau",
+            "marca": "Armani Exchange",
+            "description": "Armani Exchange",
+            "modelo": "AX1068",
+            "preco": 602,
+            "img": "https://i.ibb.co/zxNLYT5/image.jpg"
+        },
+        {
+            "categoria": "Masculino//Óculos de Grau",
+            "marca": "Armani Exchange",
+            "description": "Armani Exchange",
+            "modelo": "AX3103",
+            "preco": 653,
+            "img": "https://i.ibb.co/GH9tSX4/image.jpg"
+        },
+        {
+            "categoria": "Masculino//Óculos de Grau",
+            "marca": "Armani Exchange",
+            "description": "Armani Exchange",
+            "modelo": "AX3116",
+            "preco": 618,
+            "img": "https://i.ibb.co/5MkwX7J/image.jpg"
+        },
+        {
+            "categoria": "Masculino//Óculos de Grau",
+            "marca": "Armani Exchange",
+            "description": "Armani Exchange",
+            "modelo": "AX3118U",
+            "preco": 762,
+            "img": "https://i.ibb.co/YRRR0K4/image.jpg"
+        },
+        {
+            "categoria": "Masculino//Óculos de Grau",
+            "marca": "Armani Exchange",
+            "description": "Armani Exchange",
+            "modelo": "AX1046",
+            "preco": 512,
+            "img": "https://i.ibb.co/KKXvLBk/image.jpg"
+        },
+        {
+            "categoria": "Masculino//Óculos de Grau",
+            "marca": "Armani Exchange",
+            "description": "Armani Exchange",
+            "modelo": "AX3103",
+            "preco": 675,
+            "img": "https://i.ibb.co/B3jtVM5/image.jpg"
+        },
+        {
+            "categoria": "Masculino//Óculos de Grau",
+            "marca": "Armani Exchange",
+            "description": "Armani Exchange",
+            "modelo": "AX3103",
+            "preco": 675,
+            "img": "https://i.ibb.co/QQfhsTT/image.jpg"
+        },
+        {
+            "categoria": "Masculino//Óculos de Grau",
+            "marca": "Armani Exchange",
+            "description": "Armani Exchange",
+            "modelo": "AX3108U",
+            "preco": 640,
+            "img": "https://i.ibb.co/98CjMMr/image.jpg"
+        },
+        {
+            "categoria": "Masculino//Óculos de Grau",
+            "marca": "Armani Exchange",
+            "description": "Armani Exchange",
+            "modelo": "AX1019L",
+            "preco": 701,
+            "img": "https://i.ibb.co/DkynFc5/image.jpg"
+        },
+        {
+            "categoria": "Masculino//Óculos de Grau",
+            "marca": "Armani Exchange",
+            "description": "Armani Exchange",
+            "modelo": "AX1043L",
+            "preco": 651,
+            "img": "https://i.ibb.co/0X6n2rF/image.jpg"
+        },
+        {
+            "categoria": "Masculino//Óculos de Grau",
+            "marca": "Armani Exchange",
+            "description": "Armani Exchange",
+            "modelo": "AX3027L",
+            "preco": 675,
+            "img": "https://i.ibb.co/kG52K62/image.jpg"
+        },
+        {
+            "categoria": "Masculino//Óculos de Grau",
+            "marca": "Arnette",
+            "description": "Arnette",
+            "modelo": "AN6146L",
+            "preco": 738,
+            "img": "https://i.ibb.co/Y0CFGB6/image.jpg"
+        },
+        {
+            "categoria": "Masculino//Óculos de Grau",
+            "marca": "Arnette",
+            "description": "Arnette",
+            "modelo": "AN7168L",
+            "preco": 425,
+            "img": "https://i.ibb.co/XLvmBqB/image.jpg"
+        },
+        {
+            "categoria": "Masculino//Óculos de Grau",
+            "marca": "Arnette",
+            "description": "Arnette",
+            "modelo": "AN7218",
+            "preco": 397,
+            "img": "https://i.ibb.co/DQwCNPx/image.jpg"
+        },
+        {
+            "categoria": "Masculino//Óculos de Grau",
+            "marca": "Arnette",
+            "description": "Arnette",
+            "modelo": "AN7265L",
+            "preco": 443,
+            "img": "https://i.ibb.co/vwyqvgm/image.jpg"
+        },
+        {
+            "categoria": "Masculino//Óculos de Grau",
+            "marca": "Arnette",
+            "description": "Arnette",
+            "modelo": "AN7228-",
+            "preco": 540,
+            "img": "https://i.ibb.co/cJ1YQ31/image.jpg"
+        },
+        {
+            "categoria": "Masculino//Óculos de Grau",
+            "marca": "Arnette",
+            "description": "Arnette",
+            "modelo": "AN6130L",
+            "preco": 575,
+            "img": "https://i.ibb.co/V3PdG67/image.jpg"
+        },
+        {
+            "categoria": "Masculino//Óculos de Grau",
+            "marca": "Arnette",
+            "description": "Arnette",
+            "modelo": "AN6135",
+            "preco": 572,
+            "img": "https://i.ibb.co/vL54Qnc/image.jpg"
+        },
+        {
+            "categoria": "Masculino//Óculos de Grau",
+            "marca": "Arnette",
+            "description": "Arnette",
+            "modelo": "AN6139L",
+            "preco": 612,
+            "img": "https://i.ibb.co/LxTdhwG/image.jpg"
+        },
+        {
+            "categoria": "Masculino//Óculos de Grau",
+            "marca": "Arnette",
+            "description": "Arnette",
+            "modelo": "AN7178L",
+            "preco": 425,
+            "img": "https://i.ibb.co/BnQYrYc/image.jpg"
+        },
+        {
+            "categoria": "Masculino//Óculos de Grau",
+            "marca": "Arnette",
+            "description": "Arnette",
+            "modelo": "AN7184L",
+            "preco": 437,
+            "img": "https://i.ibb.co/Xx6qHgT/image.jpg"
+        },
+        {
+            "categoria": "Masculino//Óculos de Grau",
+            "marca": "Arnette",
+            "description": "Arnette",
+            "modelo": "AN7234L",
+            "preco": 520,
+            "img": "https://i.ibb.co/k56LdgL/image.jpg"
+        },
+        {
+            "categoria": "Masculino//Óculos de Grau",
+            "marca": "Arnette",
+            "description": "Arnette",
+            "modelo": "AN7237U",
+            "preco": 474,
+            "img": "https://i.ibb.co/HgLPz1N/image.jpg"
+        },
+        {
+            "categoria": "Masculino//Óculos de Grau",
+            "marca": "Emporio Armani",
+            "description": "Emporio Armani",
+            "modelo": "EA3069",
+            "preco": 1080,
+            "img": "https://i.ibb.co/gPLZM6j/image.jpg"
+        },
+        {
+            "categoria": "Masculino//Óculos de Grau",
+            "marca": "Emporio Armani",
+            "description": "Emporio Armani",
+            "modelo": "EA1138",
+            "preco": 775,
+            "img": "https://i.ibb.co/wJ1bHxb/image.jpg"
+        },
+        {
+            "categoria": "Masculino//Óculos de Grau",
+            "marca": "Emporio Armani",
+            "description": "Emporio Armani",
+            "modelo": "EA1149",
+            "preco": 1015,
+            "img": "https://i.ibb.co/JQHmZR8/image.jpg"
+        },
+        {
+            "categoria": "Masculino//Óculos de Grau",
+            "marca": "Emporio Armani",
+            "description": "Emporio Armani",
+            "modelo": "EA3227",
+            "preco": 888,
+            "img": "https://i.ibb.co/YTF9Df9/image.jpg"
+        },
+        {
+            "categoria": "Masculino//Óculos de Grau",
+            "marca": "Emporio Armani",
+            "description": "Emporio Armani",
+            "modelo": "EA3233",
+            "preco": 1015,
+            "img": "https://i.ibb.co/gVpbVqm/image.jpg"
+        },
+        {
+            "categoria": "Masculino//Óculos de Grau",
+            "marca": "Emporio Armani",
+            "description": "Emporio Armani",
+            "modelo": "EA3239",
+            "preco": 944,
+            "img": "https://i.ibb.co/4ffQvPS/image.jpg"
+        },
+        {
+            "categoria": "Masculino//Óculos de Grau",
+            "marca": "Emporio Armani",
+            "description": "Emporio Armani",
+            "modelo": "EA3038",
+            "preco": 907,
+            "img": "https://i.ibb.co/qrkDzgh/image.jpg"
+        },
+        {
+            "categoria": "Masculino//Óculos de Grau",
+            "marca": "Emporio Armani",
+            "description": "Emporio Armani",
+            "modelo": "EA3192",
+            "preco": 729,
+            "img": "https://i.ibb.co/3hN0f3y/image.jpg"
+        },
+        {
+            "categoria": "Masculino//Óculos de Grau",
+            "marca": "Emporio Armani",
+            "description": "Emporio Armani",
+            "modelo": "EA4160",
+            "preco": 1150,
+            "img": "https://i.ibb.co/FX8dm8x/image.jpg"
+        },
+        {
+            "categoria": "Masculino//Óculos de Grau",
+            "marca": "Emporio Armani",
+            "description": "Emporio Armani",
+            "modelo": "EA1139",
+            "preco": 1029,
+            "img": "https://i.ibb.co/DPJDvMN/image.jpg"
+        },
+        {
+            "categoria": "Masculino//Óculos de Grau",
+            "marca": "Emporio Armani",
+            "description": "Emporio Armani",
+            "modelo": "EA1105",
+            "preco": 1026,
+            "img": "https://i.ibb.co/HPJFYPd/image.jpg"
+        },
+        {
+            "categoria": "Masculino//Óculos de Grau",
+            "marca": "Emporio Armani",
+            "description": "Emporio Armani",
+            "modelo": "EA1165",
+            "preco": 1036,
+            "img": "https://i.ibb.co/S0JVsy1/image.jpg"
+        },
+        {
+            "categoria": "Masculino//Óculos de Grau",
+            "marca": "Emporio Armani",
+            "description": "Emporio Armani",
+            "modelo": "EA3246",
+            "preco": 945,
+            "img": "https://i.ibb.co/cJyW828/image.jpg"
+        },
+        {
+            "categoria": "Masculino//Óculos de Grau",
+            "marca": "Emporio Armani",
+            "description": "Emporio Armani",
+            "modelo": "EA1059",
+            "preco": 962,
+            "img": "https://i.ibb.co/vPrnLb5/image.jpg"
+        },
+        {
+            "categoria": "Masculino//Óculos de Grau",
             "marca": "Harley Davidson",
             "description": "Harley Davidson",
-            "modelo": "HD0770 002",
-            "preco_antigo": "790",
-            "preco": 199,
-            "discount": 75,
+            "modelo": "HD0787",
+            "preco": 790,
+            "img": "https://i.ibb.co/drsggrH/image.jpg"
+        },
+        {
+            "categoria": "Masculino//Óculos de Grau",
+            "marca": "Harley Davidson",
+            "description": "Harley Davidson",
+            "modelo": "HD0770",
+            "preco": 790,
             "img": "https://i.ibb.co/xXDVz59/image.jpg"
         },
         {
             "categoria": "Masculino//Óculos de Grau",
-            "sequencial": 10135247,
-            "marca": "Tcharge",
-            "description": "Tcharge",
-            "modelo": "T6083 G21",
-            "preco_antigo": "689",
-            "preco": 249,
-            "discount": 64,
-            "img": "https://i.ibb.co/NFhCy6N/image.jpg"
-        },
-        {
-            "categoria": "Masculino//Óculos de Grau",
-            "sequencial": 10133481,
-            "marca": "Jean Monnier",
-            "description": "Jean Monnier",
-            "modelo": "J83216 I573",
-            "preco_antigo": "332",
-            "preco": 189,
-            "discount": 43,
-            "img": "https://i.ibb.co/99j5wD6/image.jpg"
-        },
-        {
-            "categoria": "Masculino//Óculos de Grau",
-            "sequencial": 10132545,
-            "marca": "Keeper Brasil",
-            "description": "Keeper Brasil",
-            "modelo": "KB2018 C7",
-            "preco_antigo": "345",
-            "preco": 99,
-            "discount": 71,
-            "img": "https://i.ibb.co/LkQ4hjh/image.jpg"
-        },
-        {
-            "categoria": "Masculino//Óculos de Grau",
-            "sequencial": 10133341,
-            "marca": "Levis",
-            "description": "Levis",
-            "modelo": "LV5004 86",
-            "preco_antigo": "613",
-            "preco": 249,
-            "discount": 59,
-            "img": "https://i.ibb.co/frp4r40/image.jpg"
-        },
-        {
-            "categoria": "Masculino//Óculos de Grau",
-            "sequencial": 10136880,
             "marca": "Harley Davidson",
             "description": "Harley Davidson",
-            "modelo": "HD1042 050",
-            "preco_antigo": "790",
-            "preco": 199,
-            "discount": 75,
-            "img": "https://i.ibb.co/F5CJ3Y6/image.jpg"
+            "modelo": "HD1019",
+            "preco": 790,
+            "img": "https://i.ibb.co/sghYFmc/image.jpg"
         },
         {
             "categoria": "Masculino//Óculos de Grau",
-            "sequencial": 10135228,
-            "marca": "Tcharge",
-            "description": "Tcharge",
-            "modelo": "T1073 01H",
-            "preco_antigo": "689",
-            "preco": 249,
-            "discount": 64,
-            "img": "https://i.ibb.co/hWZqsMZ/image.jpg"
+            "marca": "Harley Davidson",
+            "description": "Harley Davidson",
+            "modelo": "HD1027",
+            "preco": 790,
+            "img": "https://i.ibb.co/6gJMJZ9/image.jpg"
         },
         {
             "categoria": "Masculino//Óculos de Grau",
-            "sequencial": 10135245,
-            "marca": "Tcharge",
-            "description": "Tcharge",
-            "modelo": "T1152 03A",
-            "preco_antigo": "689",
-            "preco": 249,
-            "discount": 64,
-            "img": "https://i.ibb.co/mhjTf48/image.jpg"
+            "marca": "HB",
+            "description": "HB",
+            "modelo": "M.010459",
+            "preco": 525,
+            "img": "https://i.ibb.co/znvQY98/image.jpg"
         },
         {
             "categoria": "Masculino//Óculos de Grau",
-            "sequencial": 10135243,
-            "marca": "Tcharge",
-            "description": "Tcharge",
-            "modelo": "T1114 02H",
-            "preco_antigo": "689",
-            "preco": 249,
-            "discount": 64,
-            "img": "https://i.ibb.co/T4VJ44P/image.jpg"
+            "marca": "HB",
+            "description": "HB",
+            "modelo": "M.010459",
+            "preco": 525,
+            "img": "https://i.ibb.co/KLNRkyX/image.jpg"
         },
         {
             "categoria": "Masculino//Óculos de Grau",
-            "sequencial": 10139391,
-            "marca": "Carrera",
-            "description": "Carrera",
-            "modelo": "CARRERA189 V81",
-            "preco_antigo": "875",
-            "preco": 599,
-            "discount": 32,
-            "img": "https://i.ibb.co/bNHfK0G/image.jpg"
+            "marca": "HB",
+            "description": "HB",
+            "modelo": "M.010492",
+            "preco": 645,
+            "img": "https://i.ibb.co/5cLNdtT/image.jpg"
         },
         {
             "categoria": "Masculino//Óculos de Grau",
-            "sequencial": 10139386,
-            "marca": "Carrera",
-            "description": "Carrera",
-            "modelo": "2034T 086",
-            "preco_antigo": "875",
-            "preco": 599,
-            "discount": 32,
-            "img": "https://i.ibb.co/0Xy2Wvk/image.jpg"
+            "marca": "HB",
+            "description": "HB",
+            "modelo": "M.93055",
+            "preco": 481,
+            "img": "https://i.ibb.co/p21B1jK/image.jpg"
         },
         {
             "categoria": "Masculino//Óculos de Grau",
-            "sequencial": 10139393,
-            "marca": "Carrera",
-            "description": "Carrera",
-            "modelo": "1117/G 010",
-            "preco_antigo": "875",
-            "preco": 599,
-            "discount": 32,
-            "img": "https://i.ibb.co/9tmSbHC/image.jpg"
+            "marca": "HB",
+            "description": "HB",
+            "modelo": "M.010399",
+            "preco": 1345,
+            "img": "https://i.ibb.co/w42vZYJ/image.jpg"
         },
         {
             "categoria": "Masculino//Óculos de Grau",
-            "sequencial": 10139384,
-            "marca": "Carrera",
-            "description": "Carrera",
-            "modelo": "271 807",
-            "preco_antigo": "875",
-            "preco": 599,
-            "discount": 32,
-            "img": "https://i.ibb.co/Tkb2rhC/image.jpg"
+            "marca": "HB",
+            "description": "HB",
+            "modelo": "M.010459",
+            "preco": 525,
+            "img": "https://i.ibb.co/v1pDW7n/image.jpg"
         },
         {
             "categoria": "Masculino//Óculos de Grau",
-            "sequencial": 10139532,
-            "marca": "Carrera",
-            "description": "Carrera",
-            "modelo": "286 79U",
-            "preco_antigo": "875",
-            "preco": 599,
-            "discount": 32,
-            "img": "https://i.ibb.co/tqtwxrg/image.jpg"
+            "marca": "HB",
+            "description": "HB",
+            "modelo": "M.0255",
+            "preco": 466,
+            "img": "https://i.ibb.co/0Dqbq7D/image.jpg"
+        },
+        {
+            "categoria": "Masculino//Óculos de Grau",
+            "marca": "HB",
+            "description": "HB",
+            "modelo": "M.010411",
+            "preco": 543,
+            "img": "https://i.ibb.co/p0th1h8/image.jpg"
+        },
+        {
+            "categoria": "Masculino//Óculos de Grau",
+            "marca": "HB",
+            "description": "HB",
+            "modelo": "M.90109",
+            "preco": 499,
+            "img": "https://i.ibb.co/xz6F2Rr/image.jpg"
+        },
+        {
+            "categoria": "Masculino//Óculos de Grau",
+            "marca": "Nike",
+            "description": "Nike",
+            "modelo": "7253",
+            "preco": 687,
+            "img": "https://i.ibb.co/gvqbskw/image.jpg"
+        },
+        {
+            "categoria": "Masculino//Óculos de Grau",
+            "marca": "Speedo",
+            "description": "Speedo",
+            "modelo": "SP1095A",
+            "preco": 325,
+            "img": "https://i.ibb.co/J73FVRJ/image.jpg"
+        },
+        {
+            "categoria": "Masculino//Óculos de Grau",
+            "marca": "Speedo",
+            "description": "Speedo",
+            "modelo": "SP1301",
+            "preco": 325,
+            "img": "https://i.ibb.co/f9ZZvTZ/image.jpg"
+        },
+        {
+            "categoria": "Masculino//Óculos de Grau",
+            "marca": "Speedo",
+            "description": "Speedo",
+            "modelo": "SP1312",
+            "preco": 325,
+            "img": "https://i.ibb.co/V2mZtM1/image.jpg"
+        },
+        {
+            "categoria": "Masculino//Óculos de Grau",
+            "marca": "Speedo",
+            "description": "Speedo",
+            "modelo": "SP1313",
+            "preco": 325,
+            "img": "https://i.ibb.co/gD6LBT5/image.jpg"
+        },
+        {
+            "categoria": "Masculino//Óculos de Grau",
+            "marca": "Speedo",
+            "description": "Speedo",
+            "modelo": "SP1313",
+            "preco": 325,
+            "img": "https://i.ibb.co/q1bdSMm/image.jpg"
+        },
+        {
+            "categoria": "Masculino//Óculos de Grau",
+            "marca": "Speedo",
+            "description": "Speedo",
+            "modelo": "SP1336",
+            "preco": 325,
+            "img": "https://i.ibb.co/vJ7rZX3/image.jpg"
+        },
+        {
+            "categoria": "Masculino//Óculos de Grau",
+            "marca": "Speedo",
+            "description": "Speedo",
+            "modelo": "SP1386",
+            "preco": 603,
+            "img": "https://i.ibb.co/5xd5gv5/image.jpg"
+        },
+        {
+            "categoria": "Masculino//Óculos de Grau",
+            "marca": "Speedo",
+            "description": "Speedo",
+            "modelo": "SP4100",
+            "preco": 603,
+            "img": "https://i.ibb.co/dQ5TrbZ/image.jpg"
+        },
+        {
+            "categoria": "Masculino//Óculos de Grau",
+            "marca": "Speedo",
+            "description": "Speedo",
+            "modelo": "SP4101",
+            "preco": 565,
+            "img": "https://i.ibb.co/YP9cWGz/image.jpg"
+        },
+        {
+            "categoria": "Masculino//Óculos de Grau",
+            "marca": "Speedo",
+            "description": "Speedo",
+            "modelo": "SP6104IN",
+            "preco": 337,
+            "img": "https://i.ibb.co/KjvBJcv/image.jpg"
+        },
+        {
+            "categoria": "Masculino//Óculos de Grau",
+            "marca": "Speedo",
+            "description": "Speedo",
+            "modelo": "SP7017",
+            "preco": 360,
+            "img": "https://i.ibb.co/LtzNLYj/image.jpg"
+        },
+        {
+            "categoria": "Masculino//Óculos de Grau",
+            "marca": "Speedo",
+            "description": "Speedo",
+            "modelo": "SP7036",
+            "preco": 339,
+            "img": "https://i.ibb.co/K5FsHgv/image.jpg"
+        },
+        {
+            "categoria": "Masculino//Óculos de Grau",
+            "marca": "Speedo",
+            "description": "Speedo",
+            "modelo": "SP1336",
+            "preco": 325,
+            "img": "https://i.ibb.co/9TPQ4ST/image.jpg"
+        },
+        {
+            "categoria": "Masculino//Óculos de Grau",
+            "marca": "Speedo",
+            "description": "Speedo",
+            "modelo": "SP4093",
+            "preco": 486,
+            "img": "https://i.ibb.co/Gstpk0J/image.jpg"
         }
     ],
     "Masculino//Óculos de Sol": [
         {
             "categoria": "Masculino//Óculos de Sol",
-            "sequencial": 10136634,
-            "marca": "Harley Davidson",
-            "description": "Harley Davidson",
-            "modelo": "HD2043 01C",
-            "preco_antigo": "790",
-            "preco": 199,
-            "discount": 75,
-            "img": "https://i.ibb.co/bJgkTs1/image.jpg"
+            "marca": "Armani Exchange",
+            "description": "Armani Exchange",
+            "modelo": "AX4137SU",
+            "preco": 698,
+            "img": "https://i.ibb.co/Vg7yJqh/image.jpg"
         },
         {
             "categoria": "Masculino//Óculos de Sol",
-            "sequencial": 10133337,
-            "marca": "Levis",
-            "description": "Levis",
-            "modelo": "LV5020 807",
-            "preco_antigo": "613",
-            "preco": 249,
-            "discount": 59,
-            "img": "https://i.ibb.co/tCpNDGk/image.jpg"
+            "marca": "Armani Exchange",
+            "description": "Armani Exchange",
+            "modelo": "AX2030S",
+            "preco": 659,
+            "img": "https://i.ibb.co/Jp3Pz2v/image.jpg"
         },
         {
             "categoria": "Masculino//Óculos de Sol",
-            "sequencial": 10136652,
-            "marca": "Harley Davidson",
-            "description": "Harley Davidson",
-            "modelo": "HD2047 32Q",
-            "preco_antigo": "790",
-            "preco": 199,
-            "discount": 75,
-            "img": "https://i.ibb.co/HFWtG3K/image.jpg"
+            "marca": "Armani Exchange",
+            "description": "Armani Exchange",
+            "modelo": "AX4108S",
+            "preco": 457,
+            "img": "https://i.ibb.co/p49HnHR/image.jpg"
         },
         {
             "categoria": "Masculino//Óculos de Sol",
-            "sequencial": 10123622,
-            "marca": "Web",
-            "description": "Web",
-            "modelo": "WE0189 09C",
-            "preco_antigo": "850",
-            "preco": 229,
-            "discount": 73,
-            "img": "https://i.ibb.co/wgyspWx/image.jpg"
+            "marca": "Armani Exchange",
+            "description": "Armani Exchange",
+            "modelo": "AX2047S",
+            "preco": 529,
+            "img": "https://i.ibb.co/d0DpxMv/image.jpg"
         },
         {
             "categoria": "Masculino//Óculos de Sol",
-            "sequencial": 10139527,
-            "marca": "Carrera",
-            "description": "Carrera",
-            "modelo": "GIPSY65 807WJ",
-            "preco_antigo": "995",
-            "preco": 599,
-            "discount": 40,
-            "img": "https://i.ibb.co/85dbskS/image.jpg"
+            "marca": "Arnette",
+            "description": "Arnette",
+            "modelo": "4283",
+            "preco": 570,
+            "img": "https://i.ibb.co/5RdsBSW/image.jpg"
         },
         {
             "categoria": "Masculino//Óculos de Sol",
-            "sequencial": 10135227,
-            "marca": "Tcharge",
-            "description": "Tcharge",
-            "modelo": "T9040 G23",
-            "preco_antigo": "689",
-            "preco": 249,
-            "discount": 64,
-            "img": "https://i.ibb.co/frPZvVx/image.jpg"
+            "marca": "Arnette",
+            "description": "Arnette",
+            "modelo": "4234",
+            "preco": 553,
+            "img": "https://i.ibb.co/85DG7PK/image.jpg"
         },
         {
             "categoria": "Masculino//Óculos de Sol",
-            "sequencial": 10137047,
-            "marca": "Web",
-            "description": "Web",
-            "modelo": "WE0129 52G",
-            "preco_antigo": "850",
-            "preco": 229,
-            "discount": 73,
-            "img": "https://i.ibb.co/bNt7P0P/image.jpg"
+            "marca": "Arnette",
+            "description": "Arnette",
+            "modelo": "4269",
+            "preco": 553,
+            "img": "https://i.ibb.co/TWCqP9V/image.jpg"
         },
         {
             "categoria": "Masculino//Óculos de Sol",
-            "sequencial": 10142650,
-            "marca": "Oakley",
-            "description": "Oakley",
-            "modelo": "OO9479L -09",
-            "preco_antigo": "1070",
-            "preco": 699,
-            "discount": 35,
-            "img": "https://i.ibb.co/RYFtR6T/image.jpg"
+            "marca": "Arnette",
+            "description": "Arnette",
+            "modelo": "AN3089",
+            "preco": 588,
+            "img": "https://i.ibb.co/p02jfv3/image.jpg"
         },
         {
             "categoria": "Masculino//Óculos de Sol",
-            "sequencial": 10142370,
-            "marca": "E Armani",
-            "description": "E Armani",
-            "modelo": "EA4029 5042/71",
-            "preco_antigo": "1026",
-            "preco": 649,
-            "discount": 37,
+            "marca": "Arnette",
+            "description": "Arnette",
+            "modelo": "4278",
+            "preco": 597,
+            "img": "https://i.ibb.co/cY2Jy3t/image.jpg"
+        },
+        {
+            "categoria": "Masculino//Óculos de Sol",
+            "marca": "Arnette",
+            "description": "Arnette",
+            "modelo": "AN4326U",
+            "preco": 586,
+            "img": "https://i.ibb.co/f4G3T4D/image.jpg"
+        },
+        {
+            "categoria": "Masculino//Óculos de Sol",
+            "marca": "Arnette",
+            "description": "Arnette",
+            "modelo": "AN4326U",
+            "preco": 735,
+            "img": "https://i.ibb.co/x3MqbPT/image.jpg"
+        },
+        {
+            "categoria": "Masculino//Óculos de Sol",
+            "marca": "Arnette",
+            "description": "Arnette",
+            "modelo": "AN4334",
+            "preco": 656,
+            "img": "https://i.ibb.co/0FjygrJ/image.jpg"
+        },
+        {
+            "categoria": "Masculino//Óculos de Sol",
+            "marca": "Emporio Armani",
+            "description": "Emporio Armani",
+            "modelo": "EA1027",
+            "preco": 940,
+            "img": "https://i.ibb.co/F4BN3Tz/image.jpg"
+        },
+        {
+            "categoria": "Masculino//Óculos de Sol",
+            "marca": "Emporio Armani",
+            "description": "Emporio Armani",
+            "modelo": "EA4029",
+            "preco": 997,
+            "img": "https://i.ibb.co/pzV5C8X/image.jpg"
+        },
+        {
+            "categoria": "Masculino//Óculos de Sol",
+            "marca": "Emporio Armani",
+            "description": "Emporio Armani",
+            "modelo": "EA4029",
+            "preco": 1026,
             "img": "https://i.ibb.co/k4nv3V0/image.jpg"
         },
         {
             "categoria": "Masculino//Óculos de Sol",
-            "sequencial": 10137141,
-            "marca": "Gant",
-            "description": "Gant",
-            "modelo": "GA7078 96N",
-            "preco_antigo": "690",
-            "preco": 299,
-            "discount": 57,
-            "img": "https://i.ibb.co/5nyqpXh/image.jpg"
+            "marca": "Emporio Armani",
+            "description": "Emporio Armani",
+            "modelo": "EA4187",
+            "preco": 1079,
+            "img": "https://i.ibb.co/pKkk5wY/image.jpg"
         },
         {
             "categoria": "Masculino//Óculos de Sol",
-            "sequencial": 10136580,
-            "marca": "Timberland",
-            "description": "Timberland",
-            "modelo": "TB9148 96D",
-            "preco_antigo": "590",
-            "preco": 199,
-            "discount": 66,
-            "img": "https://i.ibb.co/mN3zBX9/image.jpg"
+            "marca": "Emporio Armani",
+            "description": "Emporio Armani",
+            "modelo": "EA4186",
+            "preco": 1079,
+            "img": "https://i.ibb.co/Nn3R8Cw/image.jpg"
         },
         {
             "categoria": "Masculino//Óculos de Sol",
-            "sequencial": 10137120,
-            "marca": "Timberland",
-            "description": "Timberland",
-            "modelo": "TB9165 02D",
-            "preco_antigo": "590",
-            "preco": 199,
-            "discount": 66,
-            "img": "https://i.ibb.co/nsbjg7P/image.jpg"
+            "marca": "Emporio Armani",
+            "description": "Emporio Armani",
+            "modelo": "EA4212U",
+            "preco": 1079,
+            "img": "https://i.ibb.co/F5STcmQ/image.jpg"
+        },
+        {
+            "categoria": "Masculino//Óculos de Sol",
+            "marca": "Harley Davidson",
+            "description": "Harley Davidson",
+            "modelo": "HD2047",
+            "preco": 790,
+            "img": "https://i.ibb.co/HFWtG3K/image.jpg"
+        },
+        {
+            "categoria": "Masculino//Óculos de Sol",
+            "marca": "HB",
+            "description": "HB",
+            "modelo": "FREAK",
+            "preco": 497,
+            "img": "https://i.ibb.co/PwRfrwf/image.jpg"
+        },
+        {
+            "categoria": "Masculino//Óculos de Sol",
+            "marca": "Speedo",
+            "description": "Speedo",
+            "modelo": "ACE2",
+            "preco": 332,
+            "img": "https://i.ibb.co/1ZJy1fB/image.jpg"
+        },
+        {
+            "categoria": "Masculino//Óculos de Sol",
+            "marca": "Speedo",
+            "description": "Speedo",
+            "modelo": "BURITI",
+            "preco": 359,
+            "img": "https://i.ibb.co/f1N9Gyn/image.jpg"
+        },
+        {
+            "categoria": "Masculino//Óculos de Sol",
+            "marca": "Speedo",
+            "description": "Speedo",
+            "modelo": "CAPRI3",
+            "preco": 379,
+            "img": "https://i.ibb.co/tBHSpH9/image.jpg"
+        },
+        {
+            "categoria": "Masculino//Óculos de Sol",
+            "marca": "Speedo",
+            "description": "Speedo",
+            "modelo": "ECOWAVE5",
+            "preco": 390,
+            "img": "https://i.ibb.co/Tm7hbL9/image.jpg"
+        },
+        {
+            "categoria": "Masculino//Óculos de Sol",
+            "marca": "Speedo",
+            "description": "Speedo",
+            "modelo": "ECOWAVE5",
+            "preco": 344,
+            "img": "https://i.ibb.co/fYNqcSr/image.jpg"
+        },
+        {
+            "categoria": "Masculino//Óculos de Sol",
+            "marca": "Speedo",
+            "description": "Speedo",
+            "modelo": "ECOWAVE6",
+            "preco": 379,
+            "img": "https://i.ibb.co/XzFMP9V/image.jpg"
+        }
+    ],
+    "Unissex//Óculos de Sol": [
+        {
+            "categoria": "Unissex//Óculos de Sol",
+            "marca": "Nike",
+            "description": "Nike",
+            "modelo": "EV0937",
+            "preco": 798,
+            "img": "https://i.ibb.co/QQ2s4qx/image.jpg"
+        },
+        {
+            "categoria": "Unissex//Óculos de Sol",
+            "marca": "Nike",
+            "description": "Nike",
+            "modelo": "EV0948",
+            "preco": 795,
+            "img": "https://i.ibb.co/CbPgvb6/image.jpg"
+        },
+        {
+            "categoria": "Unissex//Óculos de Sol",
+            "marca": "Nike",
+            "description": "Nike",
+            "modelo": "EV0992",
+            "preco": 720,
+            "img": "https://i.ibb.co/wpcNkMQ/image.jpg"
+        },
+        {
+            "categoria": "Unissex//Óculos de Sol",
+            "marca": "Ray-Ban",
+            "description": "Ray-Ban",
+            "modelo": "RB3647-NL",
+            "preco": 1115,
+            "img": "https://i.ibb.co/BKNg20Pb/image.jpg"
+        },
+        {
+            "categoria": "Unissex//Óculos de Sol",
+            "marca": "Ray-Ban",
+            "description": "Ray-Ban",
+            "modelo": "RB0840-S",
+            "preco": 1235,
+            "img": "https://i.ibb.co/Jy5Wz5N/image.jpg"
+        },
+        {
+            "categoria": "Unissex//Óculos de Sol",
+            "marca": "Ray-Ban",
+            "description": "Ray-Ban",
+            "modelo": "RB3765",
+            "preco": 1026,
+            "img": "https://i.ibb.co/7Qy7nnB/image.jpg"
+        },
+        {
+            "categoria": "Unissex//Óculos de Sol",
+            "marca": "Ray-Ban",
+            "description": "Ray-Ban",
+            "modelo": "RB3809",
+            "preco": 1076,
+            "img": "https://i.ibb.co/6vfQrx6/image.jpg"
+        },
+        {
+            "categoria": "Unissex//Óculos de Sol",
+            "marca": "Ray-Ban",
+            "description": "Ray-Ban",
+            "modelo": "RB3825",
+            "preco": 957,
+            "img": "https://i.ibb.co/zQjN7Zg/image.jpg"
+        },
+        {
+            "categoria": "Unissex//Óculos de Sol",
+            "marca": "Ray-Ban",
+            "description": "Ray-Ban",
+            "modelo": "RB4427",
+            "preco": 850,
+            "img": "https://i.ibb.co/qMrdXDS/image.jpg"
+        },
+        {
+            "categoria": "Unissex//Óculos de Sol",
+            "marca": "Ray-Ban",
+            "description": "Ray-Ban",
+            "modelo": "RBR0101S",
+            "preco": 1140,
+            "img": "https://i.ibb.co/HqCDPTR/image.jpg"
+        },
+        {
+            "categoria": "Unissex//Óculos de Sol",
+            "marca": "Ray-Ban",
+            "description": "Ray-Ban",
+            "modelo": "RBR0502S",
+            "preco": 1140,
+            "img": "https://i.ibb.co/XskZ01q/image.jpg"
+        },
+        {
+            "categoria": "Unissex//Óculos de Sol",
+            "marca": "Ray-Ban",
+            "description": "Ray-Ban",
+            "modelo": "RB3565",
+            "preco": 1026,
+            "img": "https://i.ibb.co/9prKcGk/image.jpg"
+        },
+        {
+            "categoria": "Unissex//Óculos de Sol",
+            "marca": "Ray-Ban",
+            "description": "Ray-Ban",
+            "modelo": "RB4171",
+            "preco": 1055,
+            "img": "https://i.ibb.co/zVF8JyV/image.jpg"
+        }
+    ],
+    "Unissex//Óculos de Grau": [
+        {
+            "categoria": "Unissex//Óculos de Grau",
+            "marca": "Ray-Ban",
+            "description": "Ray-Ban",
+            "modelo": "RB8422",
+            "preco": 1323,
+            "img": "https://i.ibb.co/tBb1qrX/RB8422-2861-1.jpg"
+        },
+        {
+            "categoria": "Unissex//Óculos de Grau",
+            "marca": "Ray-Ban",
+            "description": "Ray-Ban",
+            "modelo": "RB0298V",
+            "preco": 893,
+            "img": "https://i.ibb.co/Sw5cZRx/image.jpg"
+        },
+        {
+            "categoria": "Unissex//Óculos de Grau",
+            "marca": "Ray-Ban",
+            "description": "Ray-Ban",
+            "modelo": "RB3694V",
+            "preco": 842,
+            "img": "https://i.ibb.co/2gVYB6V/image.jpg"
+        },
+        {
+            "categoria": "Unissex//Óculos de Grau",
+            "marca": "Ray-Ban",
+            "description": "Ray-Ban",
+            "modelo": "RB6448L",
+            "preco": 739,
+            "img": "https://i.ibb.co/mCGdrRN/image.jpg"
+        },
+        {
+            "categoria": "Unissex//Óculos de Grau",
+            "marca": "Ray-Ban",
+            "description": "Ray-Ban",
+            "modelo": "RB6513",
+            "preco": 990,
+            "img": "https://i.ibb.co/Qp3bvH4/image.jpg"
+        },
+        {
+            "categoria": "Unissex//Óculos de Grau",
+            "marca": "Ray-Ban",
+            "description": "Ray-Ban",
+            "modelo": "RB7239",
+            "preco": 700,
+            "img": "https://i.ibb.co/Srd4Vz1/image.jpg"
+        },
+        {
+            "categoria": "Unissex//Óculos de Grau",
+            "marca": "Ray-Ban",
+            "description": "Ray-Ban",
+            "modelo": "RB7251L",
+            "preco": 640,
+            "img": "https://i.ibb.co/18BhjRY/image.jpg"
+        },
+        {
+            "categoria": "Unissex//Óculos de Grau",
+            "marca": "Ray-Ban",
+            "description": "Ray-Ban",
+            "modelo": "RB3947VL",
+            "preco": 760,
+            "img": "https://i.ibb.co/GJgD6xx/image.jpg"
+        },
+        {
+            "categoria": "Unissex//Óculos de Grau",
+            "marca": "Ray-Ban",
+            "description": "Ray-Ban",
+            "modelo": "RB8265V",
+            "preco": 1490,
+            "img": "https://i.ibb.co/5FnNvDn/image.jpg"
+        },
+        {
+            "categoria": "Unissex//Óculos de Grau",
+            "marca": "Ray-Ban",
+            "description": "Ray-Ban",
+            "modelo": "RB7140",
+            "preco": 816,
+            "img": "https://i.ibb.co/ws8W842/image.jpg"
         }
     ]
 }

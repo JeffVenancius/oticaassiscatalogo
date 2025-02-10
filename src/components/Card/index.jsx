@@ -19,7 +19,7 @@ function ImgCarousel(props) {
 				{props.img.map(i => {
 					return (
 						<SwiperSlide key={"slideImgCard--" + props.img}>
-							<div style={{ position: "relative"}}><p className="discount">-{props.discount} %</p>
+							<div style={{ position: "relative"}}>
 							<img class="card__image__custom" key={"imgCollection--" + props.img} src={i} />
 							</div>
 						</SwiperSlide>
@@ -28,7 +28,7 @@ function ImgCarousel(props) {
 			</Swiper>
 		)
 	} else {
-		return <div style={{ position: "relative"}}><p className="discount">-{props.discount}%</p><img class="card__image__custom" src={props.img} /></div>
+		return <div style={{ position: "relative"}}><img class="card__image__custom" src={props.img} /></div>
 	}
 }
 
@@ -61,8 +61,7 @@ function Card(props) {
 				<h2>{props.modelo}</h2>
 	  			</div>
 		<div className="card__description_price_container">
-				<h3><span className="compare">De: </span><span className="preco_antigo">{formater.format(props.preco_antigo)}</span></h3>
-			  <h3 className="card--description--price"> <span className="compare">Por: </span>{price_option1}</h3>
+			  <h3 className="card--description--price"> <span className="compare"></span>{price_option1}</h3>
    	                  <p className="card--description--price"> {price_option2}</p>
 		</div>
 				<WppBtn
