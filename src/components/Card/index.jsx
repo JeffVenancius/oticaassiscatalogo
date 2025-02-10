@@ -20,7 +20,7 @@ function ImgCarousel(props) {
 					return (
 						<SwiperSlide key={"slideImgCard--" + props.img}>
 							<div style={{ position: "relative"}}>
-							<img class="card__image__custom" key={"imgCollection--" + props.img} src={i} />
+							<img class="card__image__custom" key={"imgCollection--" + props.img} src={i} loading="lazy"/>
 							</div>
 						</SwiperSlide>
 					)
@@ -28,7 +28,7 @@ function ImgCarousel(props) {
 			</Swiper>
 		)
 	} else {
-		return <div style={{ position: "relative"}}><img class="card__image__custom" src={props.img} /></div>
+		return <div style={{ position: "relative"}}><img class="card__image__custom" src={props.img} loading="lazy"/></div>
 	}
 }
 
